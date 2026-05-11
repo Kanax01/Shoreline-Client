@@ -1,0 +1,21 @@
+{
+  "name": "ChorusControl",
+  "id": "choruscontrol-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "choruscontrol-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "choruscontrol-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "choruscontrol-notify-config",
+      "value": false
+    }
+  ]
+}

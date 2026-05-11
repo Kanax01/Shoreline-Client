@@ -1,0 +1,31 @@
+{
+  "name": "AntiHunger",
+  "id": "antihunger-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "antihunger-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "antihunger-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "antihunger-notify-config",
+      "value": false
+    },
+    {
+      "name": "Sprint",
+      "id": "antihunger-sprint-config",
+      "value": true
+    },
+    {
+      "name": "Ground",
+      "id": "antihunger-ground-config",
+      "value": true
+    }
+  ]
+}

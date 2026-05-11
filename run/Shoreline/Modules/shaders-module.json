@@ -1,0 +1,248 @@
+{
+  "name": "Shaders",
+  "id": "shaders-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "shaders-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "shaders-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "shaders-notify-config",
+      "value": false
+    },
+    {
+      "name": "RenderDistance",
+      "id": "shaders-renderdistance-config",
+      "value": 50.0
+    },
+    {
+      "name": "Texture",
+      "id": "shaders-texture-config",
+      "value": true
+    },
+    {
+      "name": "Outline",
+      "id": "shaders-outline-config",
+      "value": true
+    },
+    {
+      "name": "Width",
+      "id": "shaders-width-config",
+      "value": 1.5
+    },
+    {
+      "name": "FastOutline",
+      "id": "shaders-fastoutline-config",
+      "value": false
+    },
+    {
+      "name": "Quality",
+      "id": "shaders-quality-config",
+      "value": 10
+    },
+    {
+      "name": "Steps",
+      "id": "shaders-steps-config",
+      "value": 4
+    },
+    {
+      "name": "Glow",
+      "id": "shaders-glow-config",
+      "value": false
+    },
+    {
+      "name": "GlowFactor",
+      "id": "shaders-glowfactor-config",
+      "value": 1.0
+    },
+    {
+      "name": "Fill",
+      "id": "shaders-fill-config",
+      "value": "OFF"
+    },
+    {
+      "name": "GradientColor",
+      "id": "shaders-gradientcolor-config",
+      "value": "ffffffff",
+      "global": false
+    },
+    {
+      "name": "Factor",
+      "id": "shaders-factor-config",
+      "value": 8.0
+    },
+    {
+      "name": "Speed",
+      "id": "shaders-speed-config",
+      "value": 1.5
+    },
+    {
+      "name": "Flow",
+      "id": "shaders-flow-config",
+      "value": 0.003
+    },
+    {
+      "name": "Dots",
+      "id": "shaders-dots-config",
+      "value": false
+    },
+    {
+      "name": "DotRadius",
+      "id": "shaders-dotradius-config",
+      "value": 8
+    },
+    {
+      "name": "Mix",
+      "id": "shaders-mix-config",
+      "value": true
+    },
+    {
+      "name": "MixFactor",
+      "id": "shaders-mixfactor-config",
+      "value": 0.5
+    },
+    {
+      "name": "RainbowFactor",
+      "id": "shaders-rainbowfactor-config",
+      "value": 0.005
+    },
+    {
+      "name": "Opacity",
+      "id": "shaders-opacity-config",
+      "value": 0.35
+    },
+    {
+      "name": "Hands",
+      "id": "shaders-hands-config",
+      "value": true
+    },
+    {
+      "name": "HandsColor",
+      "id": "shaders-handscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Self",
+      "id": "shaders-self-config",
+      "value": true
+    },
+    {
+      "name": "SelfColor",
+      "id": "shaders-selfcolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Players",
+      "id": "shaders-players-config",
+      "value": true
+    },
+    {
+      "name": "FriendsColor",
+      "id": "shaders-friendscolor-config",
+      "value": true
+    },
+    {
+      "name": "PlayersColor",
+      "id": "shaders-playerscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Monsters",
+      "id": "shaders-monsters-config",
+      "value": true
+    },
+    {
+      "name": "MonstersColor",
+      "id": "shaders-monsterscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Animals",
+      "id": "shaders-animals-config",
+      "value": true
+    },
+    {
+      "name": "AnimalsColor",
+      "id": "shaders-animalscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Items",
+      "id": "shaders-items-config",
+      "value": true
+    },
+    {
+      "name": "ItemsColor",
+      "id": "shaders-itemscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Crystals",
+      "id": "shaders-crystals-config",
+      "value": true
+    },
+    {
+      "name": "CrystalsColor",
+      "id": "shaders-crystalscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Projectiles",
+      "id": "shaders-projectiles-config",
+      "value": true
+    },
+    {
+      "name": "ProjectilesColor",
+      "id": "shaders-projectilescolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Chests",
+      "id": "shaders-chests-config",
+      "value": false
+    },
+    {
+      "name": "ChestsColor",
+      "id": "shaders-chestscolor-config",
+      "value": "ffc8c865",
+      "global": false
+    },
+    {
+      "name": "EnderChests",
+      "id": "shaders-enderchests-config",
+      "value": false
+    },
+    {
+      "name": "EnderChestsColor",
+      "id": "shaders-enderchestscolor-config",
+      "value": "ff9b00c8",
+      "global": false
+    },
+    {
+      "name": "Shulkers",
+      "id": "shaders-shulkers-config",
+      "value": false
+    },
+    {
+      "name": "ShulkersColor",
+      "id": "shaders-shulkerscolor-config",
+      "value": "ffc8006a",
+      "global": false
+    }
+  ]
+}

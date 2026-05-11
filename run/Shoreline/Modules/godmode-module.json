@@ -1,0 +1,31 @@
+{
+  "name": "GodMode",
+  "id": "godmode-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "godmode-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "godmode-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "godmode-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "godmode-mode-config",
+      "value": "PORTAL"
+    },
+    {
+      "name": "PositionAdjust",
+      "id": "godmode-positionadjust-config",
+      "value": true
+    }
+  ]
+}

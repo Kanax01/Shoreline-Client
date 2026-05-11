@@ -1,0 +1,36 @@
+{
+  "name": "BetterInv",
+  "id": "betterinv-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "betterinv-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "betterinv-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "betterinv-notify-config",
+      "value": false
+    },
+    {
+      "name": "DragItemMove",
+      "id": "betterinv-dragitemmove-config",
+      "value": true
+    },
+    {
+      "name": "FastDrop",
+      "id": "betterinv-fastdrop-config",
+      "value": false
+    },
+    {
+      "name": "Delay",
+      "id": "betterinv-delay-config",
+      "value": 0
+    }
+  ]
+}

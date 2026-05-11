@@ -1,0 +1,36 @@
+{
+  "name": "AutoFish",
+  "id": "autofish-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autofish-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autofish-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autofish-notify-config",
+      "value": false
+    },
+    {
+      "name": "OpenInventory",
+      "id": "autofish-openinventory-config",
+      "value": true
+    },
+    {
+      "name": "CastingDelay",
+      "id": "autofish-castingdelay-config",
+      "value": 15
+    },
+    {
+      "name": "MaxSoundDist",
+      "id": "autofish-maxsounddist-config",
+      "value": 2.0
+    }
+  ]
+}

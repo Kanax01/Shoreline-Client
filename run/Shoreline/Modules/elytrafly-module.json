@@ -1,0 +1,71 @@
+{
+  "name": "ElytraFly",
+  "id": "elytrafly-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "elytrafly-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "elytrafly-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "elytrafly-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "elytrafly-mode-config",
+      "value": "CONTROL"
+    },
+    {
+      "name": "Speed",
+      "id": "elytrafly-speed-config",
+      "value": 2.5
+    },
+    {
+      "name": "VerticalSpeed",
+      "id": "elytrafly-verticalspeed-config",
+      "value": 1.0
+    },
+    {
+      "name": "Accelerate",
+      "id": "elytrafly-accelerate-config",
+      "value": false
+    },
+    {
+      "name": "AccelSpeed",
+      "id": "elytrafly-accelspeed-config",
+      "value": 0.1
+    },
+    {
+      "name": "MaxSpeed",
+      "id": "elytrafly-maxspeed-config",
+      "value": 3.5
+    },
+    {
+      "name": "VanillaBoost",
+      "id": "elytrafly-vanillaboost-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "elytrafly-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Fireworks",
+      "id": "elytrafly-fireworks-config",
+      "value": false
+    },
+    {
+      "name": "Pitch",
+      "id": "elytrafly-pitch-config",
+      "value": 80.0
+    }
+  ]
+}

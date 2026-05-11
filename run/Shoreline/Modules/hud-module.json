@@ -1,0 +1,182 @@
+{
+  "name": "HUD",
+  "id": "hud-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "hud-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "hud-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "hud-notify-config",
+      "value": false
+    },
+    {
+      "name": "Watermark",
+      "id": "hud-watermark-config",
+      "value": true
+    },
+    {
+      "name": "ServerStatus",
+      "id": "hud-serverstatus-config",
+      "value": true
+    },
+    {
+      "name": "UserInfo",
+      "id": "hud-userinfo-config",
+      "value": true
+    },
+    {
+      "name": "Direction",
+      "id": "hud-direction-config",
+      "value": true
+    },
+    {
+      "name": "Rotation",
+      "id": "hud-rotation-config",
+      "value": false
+    },
+    {
+      "name": "Armor",
+      "id": "hud-armor-config",
+      "value": true
+    },
+    {
+      "name": "ArmorDurability",
+      "id": "hud-armordurability-config",
+      "value": false
+    },
+    {
+      "name": "Totems",
+      "id": "hud-totems-config",
+      "value": false
+    },
+    {
+      "name": "PotionHud",
+      "id": "hud-potionhud-config",
+      "value": "HIDE"
+    },
+    {
+      "name": "ItemName",
+      "id": "hud-itemname-config",
+      "value": "HIDE"
+    },
+    {
+      "name": "PotionEffects",
+      "id": "hud-potioneffects-config",
+      "value": true
+    },
+    {
+      "name": "PotionColors",
+      "id": "hud-potioncolors-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Durability",
+      "id": "hud-durability-config",
+      "value": false
+    },
+    {
+      "name": "Coords",
+      "id": "hud-coords-config",
+      "value": true
+    },
+    {
+      "name": "NetherCoords",
+      "id": "hud-nethercoords-config",
+      "value": true
+    },
+    {
+      "name": "ServerBrand",
+      "id": "hud-serverbrand-config",
+      "value": false
+    },
+    {
+      "name": "Chests",
+      "id": "hud-chests-config",
+      "value": false
+    },
+    {
+      "name": "Speed",
+      "id": "hud-speed-config",
+      "value": "K_M_H"
+    },
+    {
+      "name": "Ping",
+      "id": "hud-ping-config",
+      "value": true
+    },
+    {
+      "name": "TPS",
+      "id": "hud-tps-config",
+      "value": true
+    },
+    {
+      "name": "Packets",
+      "id": "hud-packets-config",
+      "value": false
+    },
+    {
+      "name": "FPS",
+      "id": "hud-fps-config",
+      "value": true
+    },
+    {
+      "name": "Arraylist",
+      "id": "hud-arraylist-config",
+      "value": true
+    },
+    {
+      "name": "Arraylist-Time",
+      "id": "hud-arraylist-time-config",
+      "value": 1000
+    },
+    {
+      "name": "Ordering",
+      "id": "hud-ordering-config",
+      "value": "LENGTH"
+    },
+    {
+      "name": "Rendering",
+      "id": "hud-rendering-config",
+      "value": "UP"
+    },
+    {
+      "name": "Rainbow",
+      "id": "hud-rainbow-config",
+      "value": "OFF"
+    },
+    {
+      "name": "GradientColor",
+      "id": "hud-gradientcolor-config",
+      "value": "ffffffff",
+      "global": false
+    },
+    {
+      "name": "Rainbow-Speed",
+      "id": "hud-rainbow-speed-config",
+      "value": 50.0
+    },
+    {
+      "name": "Rainbow-Saturation",
+      "id": "hud-rainbow-saturation-config",
+      "value": 35
+    },
+    {
+      "name": "Rainbow-Brightness",
+      "id": "hud-rainbow-brightness-config",
+      "value": 100
+    },
+    {
+      "name": "Rainbow-Difference",
+      "id": "hud-rainbow-difference-config",
+      "value": 40.0
+    }
+  ]
+}

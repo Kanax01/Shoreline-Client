@@ -1,0 +1,21 @@
+{
+  "name": "NoPacketKick",
+  "id": "nopacketkick-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nopacketkick-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nopacketkick-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nopacketkick-notify-config",
+      "value": false
+    }
+  ]
+}

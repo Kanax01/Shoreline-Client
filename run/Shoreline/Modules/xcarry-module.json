@@ -1,0 +1,26 @@
+{
+  "name": "XCarry",
+  "id": "xcarry-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "xcarry-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "xcarry-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "xcarry-notify-config",
+      "value": false
+    },
+    {
+      "name": "ForceCancel",
+      "id": "xcarry-forcecancel-config",
+      "value": false
+    }
+  ]
+}

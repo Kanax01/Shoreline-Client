@@ -1,0 +1,107 @@
+{
+  "name": "Tracers",
+  "id": "tracers-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "tracers-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "tracers-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "tracers-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "tracers-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Target",
+      "id": "tracers-target-config",
+      "value": "FEET"
+    },
+    {
+      "name": "Width",
+      "id": "tracers-width-config",
+      "value": 1.0
+    },
+    {
+      "name": "Players",
+      "id": "tracers-players-config",
+      "value": true
+    },
+    {
+      "name": "PlayersColor",
+      "id": "tracers-playerscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Friends",
+      "id": "tracers-friends-config",
+      "value": false
+    },
+    {
+      "name": "Invisibles",
+      "id": "tracers-invisibles-config",
+      "value": false
+    },
+    {
+      "name": "InvisiblesColor",
+      "id": "tracers-invisiblescolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Monsters",
+      "id": "tracers-monsters-config",
+      "value": false
+    },
+    {
+      "name": "MonstersColor",
+      "id": "tracers-monsterscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Animals",
+      "id": "tracers-animals-config",
+      "value": false
+    },
+    {
+      "name": "AnimalsColor",
+      "id": "tracers-animalscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Vehicles",
+      "id": "tracers-vehicles-config",
+      "value": false
+    },
+    {
+      "name": "VehiclesColor",
+      "id": "tracers-vehiclescolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Items",
+      "id": "tracers-items-config",
+      "value": false
+    },
+    {
+      "name": "ItemsColor",
+      "id": "tracers-itemscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

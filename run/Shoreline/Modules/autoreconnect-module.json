@@ -1,0 +1,26 @@
+{
+  "name": "AutoReconnect",
+  "id": "autoreconnect-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoreconnect-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoreconnect-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoreconnect-notify-config",
+      "value": false
+    },
+    {
+      "name": "Delay",
+      "id": "autoreconnect-delay-config",
+      "value": 5
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "Rotations",
+  "id": "rotations-module",
+  "configs": [
+    {
+      "name": "PreserveTicks",
+      "id": "rotations-preserveticks-config",
+      "value": 10.0
+    },
+    {
+      "name": "MovementFix",
+      "id": "rotations-movementfix-config",
+      "value": false
+    },
+    {
+      "name": "MouseSensFix",
+      "id": "rotations-mousesensfix-config",
+      "value": false
+    }
+  ]
+}

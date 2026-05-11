@@ -1,0 +1,26 @@
+{
+  "name": "InventorySync",
+  "id": "inventorysync-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "inventorysync-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "inventorysync-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "inventorysync-notify-config",
+      "value": false
+    },
+    {
+      "name": "Debug",
+      "id": "inventorysync-debug-config",
+      "value": false
+    }
+  ]
+}

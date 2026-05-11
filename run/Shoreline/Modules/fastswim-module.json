@@ -1,0 +1,56 @@
+{
+  "name": "FastSwim",
+  "id": "fastswim-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fastswim-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fastswim-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fastswim-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "fastswim-mode-config",
+      "value": "VANILLA"
+    },
+    {
+      "name": "WaterSpeed",
+      "id": "fastswim-waterspeed-config",
+      "value": 1.0
+    },
+    {
+      "name": "LavaSpeed",
+      "id": "fastswim-lavaspeed-config",
+      "value": 1.0
+    },
+    {
+      "name": "Vertical",
+      "id": "fastswim-vertical-config",
+      "value": true
+    },
+    {
+      "name": "Elytra",
+      "id": "fastswim-elytra-config",
+      "value": false
+    },
+    {
+      "name": "ElytraSpeed",
+      "id": "fastswim-elytraspeed-config",
+      "value": 1.0
+    },
+    {
+      "name": "DepthStrider",
+      "id": "fastswim-depthstrider-config",
+      "value": false
+    }
+  ]
+}

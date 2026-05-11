@@ -1,0 +1,21 @@
+{
+  "name": "NoBob",
+  "id": "nobob-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nobob-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nobob-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nobob-notify-config",
+      "value": false
+    }
+  ]
+}

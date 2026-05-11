@@ -1,0 +1,65 @@
+{
+  "name": "Ambience",
+  "id": "ambience-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "ambience-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "ambience-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "ambience-notify-config",
+      "value": false
+    },
+    {
+      "name": "Light",
+      "id": "ambience-light-config",
+      "value": false
+    },
+    {
+      "name": "LightColor",
+      "id": "ambience-lightcolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Grass",
+      "id": "ambience-grass-config",
+      "value": false
+    },
+    {
+      "name": "GrassColor",
+      "id": "ambience-grasscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Foliage",
+      "id": "ambience-foliage-config",
+      "value": false
+    },
+    {
+      "name": "FoliageColor",
+      "id": "ambience-foliagecolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Water",
+      "id": "ambience-water-config",
+      "value": false
+    },
+    {
+      "name": "WaterColor",
+      "id": "ambience-watercolor-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

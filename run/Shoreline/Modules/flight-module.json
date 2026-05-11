@@ -1,0 +1,56 @@
+{
+  "name": "Flight",
+  "id": "flight-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "flight-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "flight-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "flight-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "flight-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Speed",
+      "id": "flight-speed-config",
+      "value": 2.5
+    },
+    {
+      "name": "VerticalSpeed",
+      "id": "flight-verticalspeed-config",
+      "value": 1.0
+    },
+    {
+      "name": "AntiKick",
+      "id": "flight-antikick-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Accelerate",
+      "id": "flight-accelerate-config",
+      "value": false
+    },
+    {
+      "name": "AccelerateSpeed",
+      "id": "flight-acceleratespeed-config",
+      "value": 0.2
+    },
+    {
+      "name": "MaxSpeed",
+      "id": "flight-maxspeed-config",
+      "value": 5.0
+    }
+  ]
+}

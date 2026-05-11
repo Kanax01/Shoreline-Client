@@ -1,0 +1,58 @@
+{
+  "name": "FastPlace",
+  "id": "fastplace-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fastplace-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fastplace-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fastplace-notify-config",
+      "value": false
+    },
+    {
+      "name": "Selection",
+      "id": "fastplace-selection-config",
+      "value": "WHITELIST"
+    },
+    {
+      "name": "Delay",
+      "id": "fastplace-delay-config",
+      "value": 1
+    },
+    {
+      "name": "StartDelay",
+      "id": "fastplace-startdelay-config",
+      "value": 0.0
+    },
+    {
+      "name": "GhostFix",
+      "id": "fastplace-ghostfix-config",
+      "value": false
+    },
+    {
+      "name": "Whitelist",
+      "id": "fastplace-whitelist-config",
+      "value": [
+        "minecraft:experience_bottle",
+        "minecraft:snowball",
+        "minecraft:egg"
+      ]
+    },
+    {
+      "name": "Blacklist",
+      "id": "fastplace-blacklist-config",
+      "value": [
+        "minecraft:ender_pearl",
+        "minecraft:ender_eye"
+      ]
+    }
+  ]
+}

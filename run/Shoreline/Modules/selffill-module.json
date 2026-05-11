@@ -1,0 +1,51 @@
+{
+  "name": "SelfFill",
+  "id": "selffill-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "selffill-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "selffill-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "selffill-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "selffill-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "selffill-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "selffill-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "selffill-mode-config",
+      "value": "BLOCK_LAG"
+    },
+    {
+      "name": "Attack",
+      "id": "selffill-attack-config",
+      "value": true
+    },
+    {
+      "name": "AutoDisable",
+      "id": "selffill-autodisable-config",
+      "value": false
+    }
+  ]
+}

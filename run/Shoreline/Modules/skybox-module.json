@@ -1,0 +1,69 @@
+{
+  "name": "Skybox",
+  "id": "skybox-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "skybox-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "skybox-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "skybox-notify-config",
+      "value": false
+    },
+    {
+      "name": "WorldTime",
+      "id": "skybox-worldtime-config",
+      "value": 6000
+    },
+    {
+      "name": "Sky",
+      "id": "skybox-sky-config",
+      "value": true
+    },
+    {
+      "name": "SkyColor",
+      "id": "skybox-skycolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Cloud",
+      "id": "skybox-cloud-config",
+      "value": false
+    },
+    {
+      "name": "CloudColor",
+      "id": "skybox-cloudcolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Fog",
+      "id": "skybox-fog-config",
+      "value": false
+    },
+    {
+      "name": "FogStart",
+      "id": "skybox-fogstart-config",
+      "value": 0.0
+    },
+    {
+      "name": "FogEnd",
+      "id": "skybox-fogend-config",
+      "value": 64.0
+    },
+    {
+      "name": "FogColor",
+      "id": "skybox-fogcolor-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "name": "FastProjectile",
+  "id": "fastprojectile-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fastprojectile-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fastprojectile-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fastprojectile-notify-config",
+      "value": false
+    },
+    {
+      "name": "Charge",
+      "id": "fastprojectile-charge-config",
+      "value": 2.0
+    },
+    {
+      "name": "Arrow",
+      "id": "fastprojectile-arrow-config",
+      "value": true
+    },
+    {
+      "name": "Potion",
+      "id": "fastprojectile-potion-config",
+      "value": false
+    },
+    {
+      "name": "EnderPearl",
+      "id": "fastprojectile-enderpearl-config",
+      "value": false
+    },
+    {
+      "name": "Snowball",
+      "id": "fastprojectile-snowball-config",
+      "value": false
+    },
+    {
+      "name": "Egg",
+      "id": "fastprojectile-egg-config",
+      "value": false
+    },
+    {
+      "name": "Trident",
+      "id": "fastprojectile-trident-config",
+      "value": false
+    }
+  ]
+}

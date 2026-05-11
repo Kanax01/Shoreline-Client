@@ -1,0 +1,31 @@
+{
+  "name": "ChestSwap",
+  "id": "chestswap-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "chestswap-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "chestswap-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "chestswap-notify-config",
+      "value": false
+    },
+    {
+      "name": "Priority",
+      "id": "chestswap-priority-config",
+      "value": "NETHERITE"
+    },
+    {
+      "name": "AutoFirework",
+      "id": "chestswap-autofirework-config",
+      "value": false
+    }
+  ]
+}

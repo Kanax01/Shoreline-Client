@@ -1,0 +1,66 @@
+{
+  "name": "ViewModel",
+  "id": "viewmodel-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "viewmodel-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "viewmodel-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "viewmodel-notify-config",
+      "value": false
+    },
+    {
+      "name": "X",
+      "id": "viewmodel-x-config",
+      "value": 0.0
+    },
+    {
+      "name": "Y",
+      "id": "viewmodel-y-config",
+      "value": 0.0
+    },
+    {
+      "name": "Z",
+      "id": "viewmodel-z-config",
+      "value": 0.0
+    },
+    {
+      "name": "ScaleX",
+      "id": "viewmodel-scalex-config",
+      "value": 1.0
+    },
+    {
+      "name": "ScaleY",
+      "id": "viewmodel-scaley-config",
+      "value": 1.0
+    },
+    {
+      "name": "ScaleZ",
+      "id": "viewmodel-scalez-config",
+      "value": 1.0
+    },
+    {
+      "name": "RotateX",
+      "id": "viewmodel-rotatex-config",
+      "value": 0.0
+    },
+    {
+      "name": "RotateY",
+      "id": "viewmodel-rotatey-config",
+      "value": 0.0
+    },
+    {
+      "name": "RotateZ",
+      "id": "viewmodel-rotatez-config",
+      "value": 0.0
+    }
+  ]
+}

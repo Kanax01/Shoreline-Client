@@ -1,0 +1,81 @@
+{
+  "name": "Phase",
+  "id": "phase-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "phase-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "phase-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "phase-notify-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "phase-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "phase-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "phase-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Pitch",
+      "id": "phase-pitch-config",
+      "value": 85
+    },
+    {
+      "name": "SwapAlternative",
+      "id": "phase-swapalternative-config",
+      "value": true
+    },
+    {
+      "name": "Attack",
+      "id": "phase-attack-config",
+      "value": false
+    },
+    {
+      "name": "Raytrace",
+      "id": "phase-raytrace-config",
+      "value": false
+    },
+    {
+      "name": "Swing",
+      "id": "phase-swing-config",
+      "value": true
+    },
+    {
+      "name": "SelfFill",
+      "id": "phase-selffill-config",
+      "value": false
+    },
+    {
+      "name": "Blocks",
+      "id": "phase-blocks-config",
+      "value": 0.003
+    },
+    {
+      "name": "Distance",
+      "id": "phase-distance-config",
+      "value": 0.2
+    },
+    {
+      "name": "AutoClip",
+      "id": "phase-autoclip-config",
+      "value": true
+    }
+  ]
+}

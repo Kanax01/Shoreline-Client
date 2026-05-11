@@ -1,0 +1,86 @@
+{
+  "name": "AutoCrawlTrap",
+  "id": "autocrawltrap-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autocrawltrap-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autocrawltrap-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autocrawltrap-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "autocrawltrap-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "autocrawltrap-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "autocrawltrap-rotate-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "autocrawltrap-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "EnemyRange",
+      "id": "autocrawltrap-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "PreventDownwards",
+      "id": "autocrawltrap-preventdownwards-config",
+      "value": true
+    },
+    {
+      "name": "HitboxSync",
+      "id": "autocrawltrap-hitboxsync-config",
+      "value": false
+    },
+    {
+      "name": "PreventMine",
+      "id": "autocrawltrap-preventmine-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "autocrawltrap-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "autocrawltrap-shiftdelay-config",
+      "value": 1.0
+    },
+    {
+      "name": "ExtrapolationTicks",
+      "id": "autocrawltrap-extrapolationticks-config",
+      "value": 0
+    },
+    {
+      "name": "Render",
+      "id": "autocrawltrap-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "autocrawltrap-fade-time-config",
+      "value": 250
+    }
+  ]
+}

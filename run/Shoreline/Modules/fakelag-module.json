@@ -1,0 +1,41 @@
+{
+  "name": "FakeLag",
+  "id": "fakelag-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fakelag-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fakelag-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fakelag-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "fakelag-mode-config",
+      "value": "BLINK"
+    },
+    {
+      "name": "Pulse",
+      "id": "fakelag-pulse-config",
+      "value": false
+    },
+    {
+      "name": "Factor",
+      "id": "fakelag-factor-config",
+      "value": 1.0
+    },
+    {
+      "name": "Render",
+      "id": "fakelag-render-config",
+      "value": true
+    }
+  ]
+}

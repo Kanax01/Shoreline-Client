@@ -1,0 +1,26 @@
+{
+  "name": "NoRotate",
+  "id": "norotate-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "norotate-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "norotate-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "norotate-notify-config",
+      "value": false
+    },
+    {
+      "name": "PositionAdjust",
+      "id": "norotate-positionadjust-config",
+      "value": false
+    }
+  ]
+}

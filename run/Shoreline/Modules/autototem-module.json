@@ -1,0 +1,71 @@
+{
+  "name": "AutoTotem",
+  "id": "autototem-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autototem-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autototem-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autototem-notify-config",
+      "value": false
+    },
+    {
+      "name": "Item",
+      "id": "autototem-item-config",
+      "value": "TOTEM"
+    },
+    {
+      "name": "Health",
+      "id": "autototem-health-config",
+      "value": 14.0
+    },
+    {
+      "name": "OffhandGapple",
+      "id": "autototem-offhandgapple-config",
+      "value": true
+    },
+    {
+      "name": "Crapple",
+      "id": "autototem-crapple-config",
+      "value": true
+    },
+    {
+      "name": "Lethal",
+      "id": "autototem-lethal-config",
+      "value": false
+    },
+    {
+      "name": "FastSwap",
+      "id": "autototem-fastswap-config",
+      "value": true
+    },
+    {
+      "name": "MainhandTotem",
+      "id": "autototem-mainhandtotem-config",
+      "value": false
+    },
+    {
+      "name": "TotemSlot",
+      "id": "autototem-totemslot-config",
+      "value": 1
+    },
+    {
+      "name": "Alternative",
+      "id": "autototem-alternative-config",
+      "value": false
+    },
+    {
+      "name": "Debug",
+      "id": "autototem-debug-config",
+      "value": false
+    }
+  ]
+}

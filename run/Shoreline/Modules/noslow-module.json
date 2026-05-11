@@ -1,0 +1,106 @@
+{
+  "name": "NoSlow",
+  "id": "noslow-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "noslow-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "noslow-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "noslow-notify-config",
+      "value": false
+    },
+    {
+      "name": "Strict",
+      "id": "noslow-strict-config",
+      "value": false
+    },
+    {
+      "name": "AirStrict",
+      "id": "noslow-airstrict-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "noslow-grim-config",
+      "value": false
+    },
+    {
+      "name": "GrimV3",
+      "id": "noslow-grimv3-config",
+      "value": false
+    },
+    {
+      "name": "StrafeFix",
+      "id": "noslow-strafefix-config",
+      "value": false
+    },
+    {
+      "name": "InventoryMove",
+      "id": "noslow-inventorymove-config",
+      "value": true
+    },
+    {
+      "name": "ArrowMove",
+      "id": "noslow-arrowmove-config",
+      "value": false
+    },
+    {
+      "name": "Items",
+      "id": "noslow-items-config",
+      "value": true
+    },
+    {
+      "name": "Sneak",
+      "id": "noslow-sneak-config",
+      "value": false
+    },
+    {
+      "name": "Crawl",
+      "id": "noslow-crawl-config",
+      "value": false
+    },
+    {
+      "name": "Shields",
+      "id": "noslow-shields-config",
+      "value": true
+    },
+    {
+      "name": "Webs",
+      "id": "noslow-webs-config",
+      "value": false
+    },
+    {
+      "name": "BerryBush",
+      "id": "noslow-berrybush-config",
+      "value": false
+    },
+    {
+      "name": "WebMultiplier",
+      "id": "noslow-webmultiplier-config",
+      "value": 1.0
+    },
+    {
+      "name": "SoulSand",
+      "id": "noslow-soulsand-config",
+      "value": false
+    },
+    {
+      "name": "HoneyBlock",
+      "id": "noslow-honeyblock-config",
+      "value": false
+    },
+    {
+      "name": "SlimeBlock",
+      "id": "noslow-slimeblock-config",
+      "value": false
+    }
+  ]
+}

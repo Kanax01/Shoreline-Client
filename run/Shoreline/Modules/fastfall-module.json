@@ -1,0 +1,41 @@
+{
+  "name": "FastFall",
+  "id": "fastfall-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fastfall-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fastfall-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fastfall-notify-config",
+      "value": false
+    },
+    {
+      "name": "Height",
+      "id": "fastfall-height-config",
+      "value": 3.0
+    },
+    {
+      "name": "Mode",
+      "id": "fastfall-mode-config",
+      "value": "STEP"
+    },
+    {
+      "name": "Accelerate",
+      "id": "fastfall-accelerate-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "fastfall-shiftticks-config",
+      "value": 3
+    }
+  ]
+}

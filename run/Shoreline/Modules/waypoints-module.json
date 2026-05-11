@@ -1,0 +1,41 @@
+{
+  "name": "Waypoints",
+  "id": "waypoints-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "waypoints-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "waypoints-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "waypoints-notify-config",
+      "value": false
+    },
+    {
+      "name": "LogoutPoints",
+      "id": "waypoints-logoutpoints-config",
+      "value": false
+    },
+    {
+      "name": "DeathPoints",
+      "id": "waypoints-deathpoints-config",
+      "value": false
+    },
+    {
+      "name": "Coords",
+      "id": "waypoints-coords-config",
+      "value": true
+    },
+    {
+      "name": "Distance",
+      "id": "waypoints-distance-config",
+      "value": true
+    }
+  ]
+}

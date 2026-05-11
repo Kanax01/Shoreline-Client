@@ -1,0 +1,21 @@
+{
+  "name": "TrueDurability",
+  "id": "truedurability-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "truedurability-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "truedurability-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "truedurability-notify-config",
+      "value": false
+    }
+  ]
+}

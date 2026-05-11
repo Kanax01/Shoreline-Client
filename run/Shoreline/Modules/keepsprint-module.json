@@ -1,0 +1,21 @@
+{
+  "name": "KeepSprint",
+  "id": "keepsprint-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "keepsprint-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "keepsprint-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "keepsprint-notify-config",
+      "value": false
+    }
+  ]
+}

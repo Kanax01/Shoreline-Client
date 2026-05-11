@@ -1,0 +1,31 @@
+{
+  "name": "SkinBlink",
+  "id": "skinblink-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "skinblink-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "skinblink-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "skinblink-notify-config",
+      "value": false
+    },
+    {
+      "name": "Speed",
+      "id": "skinblink-speed-config",
+      "value": 0.1
+    },
+    {
+      "name": "Random",
+      "id": "skinblink-random-config",
+      "value": false
+    }
+  ]
+}

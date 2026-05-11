@@ -1,0 +1,33 @@
+{
+  "name": "ChestStealer",
+  "id": "cheststealer-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "cheststealer-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "cheststealer-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "cheststealer-notify-config",
+      "value": false
+    },
+    {
+      "name": "Items",
+      "id": "cheststealer-items-config",
+      "value": [
+        "minecraft:shulker_box"
+      ]
+    },
+    {
+      "name": "Delay",
+      "id": "cheststealer-delay-config",
+      "value": 0.15
+    }
+  ]
+}

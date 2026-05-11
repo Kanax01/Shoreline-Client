@@ -1,0 +1,41 @@
+{
+  "name": "ExtraTab",
+  "id": "extratab-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "extratab-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "extratab-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "extratab-notify-config",
+      "value": false
+    },
+    {
+      "name": "Size",
+      "id": "extratab-size-config",
+      "value": 200
+    },
+    {
+      "name": "Columns",
+      "id": "extratab-columns-config",
+      "value": 20
+    },
+    {
+      "name": "Self",
+      "id": "extratab-self-config",
+      "value": false
+    },
+    {
+      "name": "Friends",
+      "id": "extratab-friends-config",
+      "value": true
+    }
+  ]
+}

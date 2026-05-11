@@ -1,0 +1,26 @@
+{
+  "name": "Fullbright",
+  "id": "fullbright-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fullbright-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fullbright-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fullbright-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "fullbright-mode-config",
+      "value": "GAMMA"
+    }
+  ]
+}

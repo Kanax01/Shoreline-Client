@@ -1,0 +1,31 @@
+{
+  "name": "NoGlitchBlocks",
+  "id": "noglitchblocks-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "noglitchblocks-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "noglitchblocks-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "noglitchblocks-notify-config",
+      "value": false
+    },
+    {
+      "name": "Place",
+      "id": "noglitchblocks-place-config",
+      "value": false
+    },
+    {
+      "name": "Destroy",
+      "id": "noglitchblocks-destroy-config",
+      "value": false
+    }
+  ]
+}

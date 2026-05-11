@@ -1,0 +1,66 @@
+{
+  "name": "AutoLog",
+  "id": "autolog-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autolog-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autolog-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autolog-notify-config",
+      "value": false
+    },
+    {
+      "name": "Health",
+      "id": "autolog-health-config",
+      "value": 5.0
+    },
+    {
+      "name": "HealthTotems",
+      "id": "autolog-healthtotems-config",
+      "value": true
+    },
+    {
+      "name": "OnRender",
+      "id": "autolog-onrender-config",
+      "value": false
+    },
+    {
+      "name": "NoTotems",
+      "id": "autolog-nototems-config",
+      "value": false
+    },
+    {
+      "name": "Totems",
+      "id": "autolog-totems-config",
+      "value": 1
+    },
+    {
+      "name": "SpawnInvincibility",
+      "id": "autolog-spawninvincibility-config",
+      "value": false
+    },
+    {
+      "name": "InvincibilityTime",
+      "id": "autolog-invincibilitytime-config",
+      "value": 2.9
+    },
+    {
+      "name": "IllegalDisconnect",
+      "id": "autolog-illegaldisconnect-config",
+      "value": false
+    },
+    {
+      "name": "AutoDisable",
+      "id": "autolog-autodisable-config",
+      "value": true
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+  "name": "Breadcrumbs",
+  "id": "breadcrumbs-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "breadcrumbs-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "breadcrumbs-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "breadcrumbs-notify-config",
+      "value": false
+    },
+    {
+      "name": "Infinite",
+      "id": "breadcrumbs-infinite-config",
+      "value": true
+    },
+    {
+      "name": "MaxPosition",
+      "id": "breadcrumbs-maxposition-config",
+      "value": 2.0
+    },
+    {
+      "name": "Fade-Time",
+      "id": "breadcrumbs-fade-time-config",
+      "value": 1000
+    },
+    {
+      "name": "Width",
+      "id": "breadcrumbs-width-config",
+      "value": 1.0
+    },
+    {
+      "name": "Self",
+      "id": "breadcrumbs-self-config",
+      "value": true
+    },
+    {
+      "name": "Players",
+      "id": "breadcrumbs-players-config",
+      "value": false
+    },
+    {
+      "name": "Pearls",
+      "id": "breadcrumbs-pearls-config",
+      "value": false
+    },
+    {
+      "name": "Arrows",
+      "id": "breadcrumbs-arrows-config",
+      "value": false
+    },
+    {
+      "name": "XPBottles",
+      "id": "breadcrumbs-xpbottles-config",
+      "value": false
+    }
+  ]
+}

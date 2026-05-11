@@ -1,0 +1,41 @@
+{
+  "name": "LongJump",
+  "id": "longjump-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "longjump-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "longjump-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "longjump-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "longjump-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Boost",
+      "id": "longjump-boost-config",
+      "value": 4.5
+    },
+    {
+      "name": "VanillaBoost",
+      "id": "longjump-vanillaboost-config",
+      "value": false
+    },
+    {
+      "name": "AutoDisable",
+      "id": "longjump-autodisable-config",
+      "value": true
+    }
+  ]
+}

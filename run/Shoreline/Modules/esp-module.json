@@ -1,0 +1,112 @@
+{
+  "name": "ESP",
+  "id": "esp-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "esp-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "esp-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "esp-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "esp-range-config",
+      "value": 50.0
+    },
+    {
+      "name": "Mode",
+      "id": "esp-mode-config",
+      "value": "BOX"
+    },
+    {
+      "name": "Fill",
+      "id": "esp-fill-config",
+      "value": false
+    },
+    {
+      "name": "Width",
+      "id": "esp-width-config",
+      "value": 2.0
+    },
+    {
+      "name": "Players",
+      "id": "esp-players-config",
+      "value": true
+    },
+    {
+      "name": "Self",
+      "id": "esp-self-config",
+      "value": true
+    },
+    {
+      "name": "PlayersColor",
+      "id": "esp-playerscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Monsters",
+      "id": "esp-monsters-config",
+      "value": true
+    },
+    {
+      "name": "MonstersColor",
+      "id": "esp-monsterscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Animals",
+      "id": "esp-animals-config",
+      "value": true
+    },
+    {
+      "name": "AnimalsColor",
+      "id": "esp-animalscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Vehicles",
+      "id": "esp-vehicles-config",
+      "value": false
+    },
+    {
+      "name": "VehiclesColor",
+      "id": "esp-vehiclescolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "Items",
+      "id": "esp-items-config",
+      "value": false
+    },
+    {
+      "name": "ItemsColor",
+      "id": "esp-itemscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "EndCrystals",
+      "id": "esp-endcrystals-config",
+      "value": false
+    },
+    {
+      "name": "EndCrystalsColor",
+      "id": "esp-endcrystalscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

@@ -1,0 +1,326 @@
+{
+  "name": "AutoCrystal",
+  "id": "autocrystal-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autocrystal-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autocrystal-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autocrystal-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "autocrystal-multitask-config",
+      "value": false
+    },
+    {
+      "name": "WhileMining",
+      "id": "autocrystal-whilemining-config",
+      "value": false
+    },
+    {
+      "name": "EnemyRange",
+      "id": "autocrystal-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "Instant",
+      "id": "autocrystal-instant-config",
+      "value": false
+    },
+    {
+      "name": "Sequential",
+      "id": "autocrystal-sequential-config",
+      "value": "NONE"
+    },
+    {
+      "name": "BreakPredict",
+      "id": "autocrystal-breakpredict-config",
+      "value": false
+    },
+    {
+      "name": "Instant-Calc",
+      "id": "autocrystal-instant-calc-config",
+      "value": false
+    },
+    {
+      "name": "InstantDamage",
+      "id": "autocrystal-instantdamage-config",
+      "value": 6.0
+    },
+    {
+      "name": "InstantMax",
+      "id": "autocrystal-instantmax-config",
+      "value": true
+    },
+    {
+      "name": "Raytrace",
+      "id": "autocrystal-raytrace-config",
+      "value": true
+    },
+    {
+      "name": "Swing",
+      "id": "autocrystal-swing-config",
+      "value": true
+    },
+    {
+      "name": "Rotate",
+      "id": "autocrystal-rotate-config",
+      "value": false
+    },
+    {
+      "name": "YawStep",
+      "id": "autocrystal-yawstep-config",
+      "value": "OFF"
+    },
+    {
+      "name": "YawStep-Limit",
+      "id": "autocrystal-yawstep-limit-config",
+      "value": 180
+    },
+    {
+      "name": "Players",
+      "id": "autocrystal-players-config",
+      "value": true
+    },
+    {
+      "name": "Monsters",
+      "id": "autocrystal-monsters-config",
+      "value": false
+    },
+    {
+      "name": "Neutrals",
+      "id": "autocrystal-neutrals-config",
+      "value": false
+    },
+    {
+      "name": "Animals",
+      "id": "autocrystal-animals-config",
+      "value": false
+    },
+    {
+      "name": "Shulkers",
+      "id": "autocrystal-shulkers-config",
+      "value": false
+    },
+    {
+      "name": "BreakSpeed",
+      "id": "autocrystal-breakspeed-config",
+      "value": 18.0
+    },
+    {
+      "name": "AttackDelay",
+      "id": "autocrystal-attackdelay-config",
+      "value": 0.0
+    },
+    {
+      "name": "AttackFactor",
+      "id": "autocrystal-attackfactor-config",
+      "value": 0
+    },
+    {
+      "name": "AttackLimit",
+      "id": "autocrystal-attacklimit-config",
+      "value": 1.5
+    },
+    {
+      "name": "BreakDelay",
+      "id": "autocrystal-breakdelay-config",
+      "value": false
+    },
+    {
+      "name": "BreakTimeout",
+      "id": "autocrystal-breaktimeout-config",
+      "value": 3.0
+    },
+    {
+      "name": "MinTimeout",
+      "id": "autocrystal-mintimeout-config",
+      "value": 5.0
+    },
+    {
+      "name": "TicksExisted",
+      "id": "autocrystal-ticksexisted-config",
+      "value": 0
+    },
+    {
+      "name": "BreakRange",
+      "id": "autocrystal-breakrange-config",
+      "value": 4.0
+    },
+    {
+      "name": "MaxYOffset",
+      "id": "autocrystal-maxyoffset-config",
+      "value": 5.0
+    },
+    {
+      "name": "BreakWallRange",
+      "id": "autocrystal-breakwallrange-config",
+      "value": 4.0
+    },
+    {
+      "name": "AntiWeakness",
+      "id": "autocrystal-antiweakness-config",
+      "value": "OFF"
+    },
+    {
+      "name": "SwapPenalty",
+      "id": "autocrystal-swappenalty-config",
+      "value": 0.0
+    },
+    {
+      "name": "Inhibit",
+      "id": "autocrystal-inhibit-config",
+      "value": true
+    },
+    {
+      "name": "Place",
+      "id": "autocrystal-place-config",
+      "value": true
+    },
+    {
+      "name": "PlaceSpeed",
+      "id": "autocrystal-placespeed-config",
+      "value": 18.0
+    },
+    {
+      "name": "PlaceRange",
+      "id": "autocrystal-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "PlaceWallRange",
+      "id": "autocrystal-placewallrange-config",
+      "value": 4.0
+    },
+    {
+      "name": "PlaceRangeEye",
+      "id": "autocrystal-placerangeeye-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRangeCenter",
+      "id": "autocrystal-placerangecenter-config",
+      "value": true
+    },
+    {
+      "name": "Swap",
+      "id": "autocrystal-swap-config",
+      "value": "OFF"
+    },
+    {
+      "name": "AntiSurround",
+      "id": "autocrystal-antisurround-config",
+      "value": false
+    },
+    {
+      "name": "PreventReplace",
+      "id": "autocrystal-preventreplace-config",
+      "value": "NONE"
+    },
+    {
+      "name": "Strict",
+      "id": "autocrystal-strict-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "autocrystal-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Placements",
+      "id": "autocrystal-placements-config",
+      "value": "NATIVE"
+    },
+    {
+      "name": "MinDamage",
+      "id": "autocrystal-mindamage-config",
+      "value": 4.0
+    },
+    {
+      "name": "MaxLocalDamage",
+      "id": "autocrystal-maxlocaldamage-config",
+      "value": 12.0
+    },
+    {
+      "name": "AssumeBestArmor",
+      "id": "autocrystal-assumebestarmor-config",
+      "value": false
+    },
+    {
+      "name": "ArmorBreaker",
+      "id": "autocrystal-armorbreaker-config",
+      "value": true
+    },
+    {
+      "name": "ArmorScale",
+      "id": "autocrystal-armorscale-config",
+      "value": 5.0
+    },
+    {
+      "name": "LethalMultiplier",
+      "id": "autocrystal-lethalmultiplier-config",
+      "value": 1.5
+    },
+    {
+      "name": "Lethal-Totem",
+      "id": "autocrystal-lethal-totem-config",
+      "value": false
+    },
+    {
+      "name": "Lethal-DamageTick",
+      "id": "autocrystal-lethal-damagetick-config",
+      "value": false
+    },
+    {
+      "name": "Safety",
+      "id": "autocrystal-safety-config",
+      "value": true
+    },
+    {
+      "name": "SafetyOverride",
+      "id": "autocrystal-safetyoverride-config",
+      "value": false
+    },
+    {
+      "name": "BlockDestruction",
+      "id": "autocrystal-blockdestruction-config",
+      "value": false
+    },
+    {
+      "name": "SelfExtrapolate",
+      "id": "autocrystal-selfextrapolate-config",
+      "value": false
+    },
+    {
+      "name": "ExtrapolationTicks",
+      "id": "autocrystal-extrapolationticks-config",
+      "value": 0
+    },
+    {
+      "name": "Render",
+      "id": "autocrystal-render-config",
+      "value": true
+    },
+    {
+      "name": "Fade-Time",
+      "id": "autocrystal-fade-time-config",
+      "value": 250
+    },
+    {
+      "name": "DisableOnDeath",
+      "id": "autocrystal-disableondeath-config",
+      "value": false
+    }
+  ]
+}

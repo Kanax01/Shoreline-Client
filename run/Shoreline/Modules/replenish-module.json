@@ -1,0 +1,31 @@
+{
+  "name": "Replenish",
+  "id": "replenish-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "replenish-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "replenish-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "replenish-notify-config",
+      "value": false
+    },
+    {
+      "name": "Percent",
+      "id": "replenish-percent-config",
+      "value": 25
+    },
+    {
+      "name": "AllowResistant",
+      "id": "replenish-allowresistant-config",
+      "value": false
+    }
+  ]
+}

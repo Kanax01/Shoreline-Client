@@ -1,0 +1,8 @@
+./.gradle
+./.idea
+./._upstream_repo
+./.build
+# Project exclude paths
+/.gradle/
+/build/
+/build/classes/java/main/

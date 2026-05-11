@@ -1,0 +1,71 @@
+{
+  "name": "AutoWeb",
+  "id": "autoweb-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoweb-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoweb-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoweb-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "autoweb-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "autoweb-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "autoweb-rotate-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "autoweb-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "EnemyRange",
+      "id": "autoweb-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "CoverHead",
+      "id": "autoweb-coverhead-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "autoweb-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "autoweb-shiftdelay-config",
+      "value": 1
+    },
+    {
+      "name": "Render",
+      "id": "autoweb-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "autoweb-fade-time-config",
+      "value": 250
+    }
+  ]
+}

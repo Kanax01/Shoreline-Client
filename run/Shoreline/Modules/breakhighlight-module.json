@@ -1,0 +1,32 @@
+{
+  "name": "BreakHighlight",
+  "id": "breakhighlight-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "breakhighlight-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "breakhighlight-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "breakhighlight-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "breakhighlight-range-config",
+      "value": 10.0
+    },
+    {
+      "name": "Color",
+      "id": "breakhighlight-color-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

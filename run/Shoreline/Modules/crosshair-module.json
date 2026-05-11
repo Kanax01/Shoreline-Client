@@ -1,0 +1,62 @@
+{
+  "name": "Crosshair",
+  "id": "crosshair-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "crosshair-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "crosshair-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "crosshair-notify-config",
+      "value": false
+    },
+    {
+      "name": "Length",
+      "id": "crosshair-length-config",
+      "value": 1.0
+    },
+    {
+      "name": "Thickness",
+      "id": "crosshair-thickness-config",
+      "value": 0.5
+    },
+    {
+      "name": "Gap",
+      "id": "crosshair-gap-config",
+      "value": 2
+    },
+    {
+      "name": "Dynamic",
+      "id": "crosshair-dynamic-config",
+      "value": false
+    },
+    {
+      "name": "Outline",
+      "id": "crosshair-outline-config",
+      "value": true
+    },
+    {
+      "name": "OutlineThickness",
+      "id": "crosshair-outlinethickness-config",
+      "value": 0.3
+    },
+    {
+      "name": "Opacity",
+      "id": "crosshair-opacity-config",
+      "value": 1.0
+    },
+    {
+      "name": "Color",
+      "id": "crosshair-color-config",
+      "value": "ff3264cd",
+      "global": true
+    }
+  ]
+}

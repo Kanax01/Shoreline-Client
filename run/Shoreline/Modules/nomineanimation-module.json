@@ -1,0 +1,21 @@
+{
+  "name": "NoMineAnimation",
+  "id": "nomineanimation-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nomineanimation-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nomineanimation-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nomineanimation-notify-config",
+      "value": false
+    }
+  ]
+}

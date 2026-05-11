@@ -1,0 +1,21 @@
+{
+  "name": "ClientSpoof",
+  "id": "clientspoof-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "clientspoof-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "clientspoof-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "clientspoof-notify-config",
+      "value": false
+    }
+  ]
+}

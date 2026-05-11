@@ -1,0 +1,92 @@
+{
+  "name": "Chams",
+  "id": "chams-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "chams-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "chams-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "chams-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "chams-range-config",
+      "value": 50.0
+    },
+    {
+      "name": "Mode",
+      "id": "chams-mode-config",
+      "value": "FILL"
+    },
+    {
+      "name": "Width",
+      "id": "chams-width-config",
+      "value": 1.5
+    },
+    {
+      "name": "ThroughWalls",
+      "id": "chams-throughwalls-config",
+      "value": true
+    },
+    {
+      "name": "Texture",
+      "id": "chams-texture-config",
+      "value": false
+    },
+    {
+      "name": "Players",
+      "id": "chams-players-config",
+      "value": true
+    },
+    {
+      "name": "Self",
+      "id": "chams-self-config",
+      "value": true
+    },
+    {
+      "name": "Hands",
+      "id": "chams-hands-config",
+      "value": true
+    },
+    {
+      "name": "Monsters",
+      "id": "chams-monsters-config",
+      "value": true
+    },
+    {
+      "name": "Animals",
+      "id": "chams-animals-config",
+      "value": true
+    },
+    {
+      "name": "Crystals",
+      "id": "chams-crystals-config",
+      "value": true
+    },
+    {
+      "name": "Pops",
+      "id": "chams-pops-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "chams-fade-time-config",
+      "value": 1000
+    },
+    {
+      "name": "Color",
+      "id": "chams-color-config",
+      "value": "3c3264cd",
+      "global": true
+    }
+  ]
+}

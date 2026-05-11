@@ -1,0 +1,31 @@
+{
+  "name": "Capes",
+  "id": "capes-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "capes-enabled-config",
+      "value": true
+    },
+    {
+      "name": "Hidden",
+      "id": "capes-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "capes-notify-config",
+      "value": false
+    },
+    {
+      "name": "Client",
+      "id": "capes-client-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Optifine",
+      "id": "capes-optifine-config",
+      "value": true
+    }
+  ]
+}

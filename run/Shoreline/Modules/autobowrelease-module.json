@@ -1,0 +1,36 @@
+{
+  "name": "AutoBowRelease",
+  "id": "autobowrelease-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autobowrelease-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autobowrelease-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autobowrelease-notify-config",
+      "value": false
+    },
+    {
+      "name": "Crossbow",
+      "id": "autobowrelease-crossbow-config",
+      "value": false
+    },
+    {
+      "name": "Ticks",
+      "id": "autobowrelease-ticks-config",
+      "value": 5
+    },
+    {
+      "name": "TPS-Sync",
+      "id": "autobowrelease-tps-sync-config",
+      "value": false
+    }
+  ]
+}

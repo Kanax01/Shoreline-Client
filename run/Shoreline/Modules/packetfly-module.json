@@ -1,0 +1,76 @@
+{
+  "name": "PacketFly",
+  "id": "packetfly-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "packetfly-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "packetfly-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "packetfly-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "packetfly-mode-config",
+      "value": "FAST"
+    },
+    {
+      "name": "Factor",
+      "id": "packetfly-factor-config",
+      "value": 1.0
+    },
+    {
+      "name": "Reduction",
+      "id": "packetfly-reduction-config",
+      "value": 0.0
+    },
+    {
+      "name": "Phase",
+      "id": "packetfly-phase-config",
+      "value": "FULL"
+    },
+    {
+      "name": "Type",
+      "id": "packetfly-type-config",
+      "value": "DOWN"
+    },
+    {
+      "name": "Limit",
+      "id": "packetfly-limit-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Limit-Vertical",
+      "id": "packetfly-limit-vertical-config",
+      "value": false
+    },
+    {
+      "name": "Conceal",
+      "id": "packetfly-conceal-config",
+      "value": false
+    },
+    {
+      "name": "LimitJitter",
+      "id": "packetfly-limitjitter-config",
+      "value": true
+    },
+    {
+      "name": "Conceal-Slow",
+      "id": "packetfly-conceal-slow-config",
+      "value": false
+    },
+    {
+      "name": "AntiKick",
+      "id": "packetfly-antikick-config",
+      "value": true
+    }
+  ]
+}

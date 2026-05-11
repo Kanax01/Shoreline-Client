@@ -1,0 +1,51 @@
+{
+  "name": "ChatNotifier",
+  "id": "chatnotifier-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "chatnotifier-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "chatnotifier-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "chatnotifier-notify-config",
+      "value": false
+    },
+    {
+      "name": "TotemPop",
+      "id": "chatnotifier-totempop-config",
+      "value": true
+    },
+    {
+      "name": "VisualRange",
+      "id": "chatnotifier-visualrange-config",
+      "value": false
+    },
+    {
+      "name": "Join",
+      "id": "chatnotifier-join-config",
+      "value": false
+    },
+    {
+      "name": "Leave",
+      "id": "chatnotifier-leave-config",
+      "value": false
+    },
+    {
+      "name": "Friends",
+      "id": "chatnotifier-friends-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "chatnotifier-grim-config",
+      "value": false
+    }
+  ]
+}

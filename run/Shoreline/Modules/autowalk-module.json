@@ -1,0 +1,26 @@
+{
+  "name": "AutoWalk",
+  "id": "autowalk-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autowalk-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autowalk-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autowalk-notify-config",
+      "value": false
+    },
+    {
+      "name": "Lock",
+      "id": "autowalk-lock-config",
+      "value": false
+    }
+  ]
+}

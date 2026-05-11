@@ -1,0 +1,64 @@
+{
+  "name": "NewChunks",
+  "id": "newchunks-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "newchunks-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "newchunks-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "newchunks-notify-config",
+      "value": true
+    },
+    {
+      "name": "NewChunks",
+      "id": "newchunks-newchunks-config",
+      "value": true
+    },
+    {
+      "name": "OldChunks",
+      "id": "newchunks-oldchunks-config",
+      "value": false
+    },
+    {
+      "name": "YLevel",
+      "id": "newchunks-ylevel-config",
+      "value": 0
+    },
+    {
+      "name": "NewChunksColor",
+      "id": "newchunks-newchunkscolor-config",
+      "value": "ff3264cd",
+      "global": true
+    },
+    {
+      "name": "OldChunksColor",
+      "id": "newchunks-oldchunkscolor-config",
+      "value": "ffff0000",
+      "global": false
+    },
+    {
+      "name": "SpawnerDetector",
+      "id": "newchunks-spawnerdetector-config",
+      "value": false
+    },
+    {
+      "name": "SpawnerRange",
+      "id": "newchunks-spawnerrange-config",
+      "value": true
+    },
+    {
+      "name": "SpawnerColor",
+      "id": "newchunks-spawnercolor-config",
+      "value": "ffff00ff",
+      "global": false
+    }
+  ]
+}

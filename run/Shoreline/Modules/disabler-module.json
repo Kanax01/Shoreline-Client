@@ -1,0 +1,26 @@
+{
+  "name": "Disabler",
+  "id": "disabler-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "disabler-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "disabler-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "disabler-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "disabler-mode-config",
+      "value": "GRIM_TRIDENT"
+    }
+  ]
+}

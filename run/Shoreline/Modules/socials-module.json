@@ -1,0 +1,22 @@
+{
+  "name": "Socials",
+  "id": "socials-module",
+  "configs": [
+    {
+      "name": "Friends",
+      "id": "socials-friends-config",
+      "value": true
+    },
+    {
+      "name": "AddNotify",
+      "id": "socials-addnotify-config",
+      "value": false
+    },
+    {
+      "name": "FriendsColor",
+      "id": "socials-friendscolor-config",
+      "value": "ff66ffff",
+      "global": false
+    }
+  ]
+}

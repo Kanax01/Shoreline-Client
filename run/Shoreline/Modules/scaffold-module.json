@@ -1,0 +1,96 @@
+{
+  "name": "Scaffold",
+  "id": "scaffold-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "scaffold-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "scaffold-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "scaffold-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "scaffold-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "scaffold-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "scaffold-rotate-config",
+      "value": false
+    },
+    {
+      "name": "RotateHold",
+      "id": "scaffold-rotatehold-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "scaffold-grim-config",
+      "value": false
+    },
+    {
+      "name": "GrimV3",
+      "id": "scaffold-grimv3-config",
+      "value": false
+    },
+    {
+      "name": "Selection",
+      "id": "scaffold-selection-config",
+      "value": "ALL"
+    },
+    {
+      "name": "Whitelist",
+      "id": "scaffold-whitelist-config",
+      "value": [
+        "minecraft:dirt",
+        "minecraft:obsidian"
+      ]
+    },
+    {
+      "name": "Blacklist",
+      "id": "scaffold-blacklist-config",
+      "value": [
+        "minecraft:shulker_box"
+      ]
+    },
+    {
+      "name": "KeepY",
+      "id": "scaffold-keepy-config",
+      "value": false
+    },
+    {
+      "name": "Tower",
+      "id": "scaffold-tower-config",
+      "value": true
+    },
+    {
+      "name": "BlockSelection",
+      "id": "scaffold-blockselection-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Render",
+      "id": "scaffold-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "scaffold-fade-time-config",
+      "value": 250
+    }
+  ]
+}

@@ -1,0 +1,51 @@
+{
+  "name": "AutoArmor",
+  "id": "autoarmor-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoarmor-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoarmor-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoarmor-notify-config",
+      "value": false
+    },
+    {
+      "name": "Priority",
+      "id": "autoarmor-priority-config",
+      "value": "BLAST_PROTECTION"
+    },
+    {
+      "name": "MinDurability",
+      "id": "autoarmor-mindurability-config",
+      "value": 0.0
+    },
+    {
+      "name": "ElytraPriority",
+      "id": "autoarmor-elytrapriority-config",
+      "value": true
+    },
+    {
+      "name": "Leggings-BlastPriority",
+      "id": "autoarmor-leggings-blastpriority-config",
+      "value": true
+    },
+    {
+      "name": "NoBinding",
+      "id": "autoarmor-nobinding-config",
+      "value": true
+    },
+    {
+      "name": "AllowInventory",
+      "id": "autoarmor-allowinventory-config",
+      "value": false
+    }
+  ]
+}

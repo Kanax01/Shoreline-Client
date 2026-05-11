@@ -1,0 +1,106 @@
+{
+  "name": "Surround",
+  "id": "surround-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "surround-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "surround-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "surround-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "surround-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "surround-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "surround-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Timing",
+      "id": "surround-timing-config",
+      "value": "VANILLA"
+    },
+    {
+      "name": "PrePlace-Explosions",
+      "id": "surround-preplace-explosions-config",
+      "value": false
+    },
+    {
+      "name": "PrePlace-Tick",
+      "id": "surround-preplace-tick-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "surround-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "Attack",
+      "id": "surround-attack-config",
+      "value": true
+    },
+    {
+      "name": "Extend",
+      "id": "surround-extend-config",
+      "value": true
+    },
+    {
+      "name": "CoverHead",
+      "id": "surround-coverhead-config",
+      "value": false
+    },
+    {
+      "name": "MineExtend",
+      "id": "surround-mineextend-config",
+      "value": false
+    },
+    {
+      "name": "Support",
+      "id": "surround-support-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "surround-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "surround-shiftdelay-config",
+      "value": 1.0
+    },
+    {
+      "name": "AutoDisable",
+      "id": "surround-autodisable-config",
+      "value": true
+    },
+    {
+      "name": "Render",
+      "id": "surround-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "surround-fade-time-config",
+      "value": 250
+    }
+  ]
+}

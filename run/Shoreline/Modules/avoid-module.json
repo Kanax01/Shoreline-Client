@@ -1,0 +1,51 @@
+{
+  "name": "Avoid",
+  "id": "avoid-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "avoid-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "avoid-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "avoid-notify-config",
+      "value": false
+    },
+    {
+      "name": "Void",
+      "id": "avoid-void-config",
+      "value": true
+    },
+    {
+      "name": "Fire",
+      "id": "avoid-fire-config",
+      "value": false
+    },
+    {
+      "name": "BerryBush",
+      "id": "avoid-berrybush-config",
+      "value": false
+    },
+    {
+      "name": "Cactus",
+      "id": "avoid-cactus-config",
+      "value": false
+    },
+    {
+      "name": "Unloaded",
+      "id": "avoid-unloaded-config",
+      "value": false
+    },
+    {
+      "name": "Climb",
+      "id": "avoid-climb-config",
+      "value": false
+    }
+  ]
+}

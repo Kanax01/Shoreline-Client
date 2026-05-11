@@ -1,0 +1,21 @@
+{
+  "name": "NoJumpDelay",
+  "id": "nojumpdelay-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nojumpdelay-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nojumpdelay-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nojumpdelay-notify-config",
+      "value": false
+    }
+  ]
+}

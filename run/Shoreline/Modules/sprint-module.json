@@ -1,0 +1,31 @@
+{
+  "name": "Sprint",
+  "id": "sprint-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "sprint-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "sprint-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "sprint-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "sprint-mode-config",
+      "value": "LEGIT"
+    },
+    {
+      "name": "JumpFix",
+      "id": "sprint-jumpfix-config",
+      "value": true
+    }
+  ]
+}

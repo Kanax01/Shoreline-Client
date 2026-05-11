@@ -1,0 +1,46 @@
+{
+  "name": "ClickGui",
+  "id": "clickgui-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "clickgui-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "clickgui-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "clickgui-notify-config",
+      "value": false
+    },
+    {
+      "name": "Blur",
+      "id": "clickgui-blur-config",
+      "value": false
+    },
+    {
+      "name": "Scale",
+      "id": "clickgui-scale-config",
+      "value": 1.0
+    },
+    {
+      "name": "ScrollSpeed",
+      "id": "clickgui-scrollspeed-config",
+      "value": 30
+    },
+    {
+      "name": "Sounds",
+      "id": "clickgui-sounds-config",
+      "value": true
+    },
+    {
+      "name": "Descriptions",
+      "id": "clickgui-descriptions-config",
+      "value": true
+    }
+  ]
+}

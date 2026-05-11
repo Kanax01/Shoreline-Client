@@ -1,0 +1,12 @@
+{
+  "name": "Colors",
+  "id": "colors-module",
+  "configs": [
+    {
+      "name": "Global",
+      "id": "colors-global-config",
+      "value": "ff3264cd",
+      "global": false
+    }
+  ]
+}

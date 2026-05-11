@@ -1,0 +1,41 @@
+{
+  "name": "FireworkBoost",
+  "id": "fireworkboost-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fireworkboost-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fireworkboost-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fireworkboost-notify-config",
+      "value": false
+    },
+    {
+      "name": "Speed",
+      "id": "fireworkboost-speed-config",
+      "value": 1.5
+    },
+    {
+      "name": "Accelerate",
+      "id": "fireworkboost-accelerate-config",
+      "value": false
+    },
+    {
+      "name": "AccelSpeed",
+      "id": "fireworkboost-accelspeed-config",
+      "value": 0.5
+    },
+    {
+      "name": "MaxSpeed",
+      "id": "fireworkboost-maxspeed-config",
+      "value": 3.0
+    }
+  ]
+}

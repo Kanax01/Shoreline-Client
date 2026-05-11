@@ -1,0 +1,36 @@
+{
+  "name": "Trigger",
+  "id": "trigger-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "trigger-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "trigger-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "trigger-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "trigger-mode-config",
+      "value": "MOUSE_BUTTON"
+    },
+    {
+      "name": "AttackSpeed",
+      "id": "trigger-attackspeed-config",
+      "value": 8.0
+    },
+    {
+      "name": "RandomSpeed",
+      "id": "trigger-randomspeed-config",
+      "value": 2.0
+    }
+  ]
+}

@@ -1,0 +1,315 @@
+WARNING: A restricted method in java.lang.System has been called
+WARNING: java.lang.System::load has been called by net.rubygrapefruit.platform.internal.NativeLibraryLoader in an unnamed module (file:/C:/Users/kanax/.gradle/wrapper/dists/gradle-8.14-bin/38aieal9i53h9rfe7vjup95b9/gradle-8.14/lib/native-platform-0.22-milestone-28.jar)
+WARNING: Use --enable-native-access=ALL-UNNAMED to avoid a warning for callers in this module
+WARNING: Restricted methods will be blocked in a future release unless native access is enabled
+
+
+> Configure project :
+Fabric Loom: 1.13.3
+Project directory 'C:\Users\kanax\OneDrive\Desktop\Shoreline' is located in OneDrive. This is known to cause issues and slower performance. Consider moving the project to a different location.
+Previous process has disowned the lock due to abrupt termination.
+Found existing cache lock file (ACQUIRED_PREVIOUS_OWNER_DISOWNED), rebuilding loom cache. This may have been caused by a failed or canceled build.
+:remapping sources
+
+> Task :compileJava
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\model\MinecraftProfile.java:37: error: reached end of file while parsing
+/*   */    }
+            ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+/* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+/* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                            ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+/* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                                                      ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+/* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                                                                                                ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:193: error: illegal start of expression
+/* 193 */           ), ContentType.create(ContentType.APPLICATION_FORM_URLENCODED
+                    ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:266: error: illegal start of expression
+/*     */               }, ,
+                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:269: error: illegal start of expression
+/* 269 */               }, , { "passwd", encodedPassword }, , { "PPFT", result.getSfttTag() }, 
+                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:269: error: illegal start of expression
+/* 269 */               }, , { "passwd", encodedPassword }, , { "PPFT", result.getSfttTag() }, 
+                                                            ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:270: error: illegal start of expression
+/* 270 */             }, ), ContentType.create(contentTypeRaw)));
+                         ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\security\PKCEData.java:39: error: reached end of file while parsing
+/*   */    }
+            ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\FontRenderer.java:10: error: = expected
+/*    */   public static final GlyphVisitor DEFAULT_VISITOR;
+                                                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\FontRenderer.java:12: error: initializers not allowed in interfaces
+/*    */   static {
+                  ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\Glyph.java:43: error: reached end of file while parsing
+/*    */ }
+          ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\font\AWTFontRenderer.java:409: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\gui\account\AccountAddAccountScreen.java:88: error: -> expected
+/*     */               AccountManager.MSA_AUTHENTICATOR.loginWithBrowser(());
+                                                                            ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\gui\account\AccountSelectorScreen.java:95: error: -> expected
+/*     */             this.field_22787.method_1507((class_437)new class_410((), class_2561.method_30163("Delete account?"), class_2561.method_30163("Are you sure you would like to delete " + entry.getAccount().username() + "?"), class_2561.method_30163("Yes"), class_2561.method_30163("No")));
+                                                                              ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\manager\anticheat\SetbackData.java:41: error: illegal start of expression
+/*    */   public long timeSince() {
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\BlockPlacerModule.java:79: error: illegal start of expression
+/*    */     public boolean equals(Object obj) {
+             ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\combat\AutoAnchorModule.java:443: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\exploit\BacktrackModule.java:202: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\misc\BeaconSelectorModule.java:37: error: variable declaration not allowed here
+/* 37 */     class_2596 class_2596 = event.getPacket(); if (class_2596 instanceof class_2866) class_2866 class_2866 = (class_2866)class_2596;
+                                                                                                         ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\misc\PacketLoggerModule.java:262: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:21: error: <identifier> expected
+/*    */ class null
+              ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:22: error: class, interface, enum, or record expected
+/*    */   extends LinkedList<class_2248>
+                             ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:26: error: invalid method declaration; return type required
+/* 26 */     add(class_2246.field_22423);
+             ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:26: error: <identifier> expected
+/* 26 */     add(class_2246.field_22423);
+                                       ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:27: error: invalid method declaration; return type required
+/* 27 */     add(class_2246.field_10443);
+             ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:27: error: <identifier> expected
+/* 27 */     add(class_2246.field_10443);
+                                       ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:28: error: class, interface, enum, or record expected
+/*    */   }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:1: error: implicitly declared class should not have package declaration
+/*    */ package net.shoreline.client.impl.module;
+         ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\render\BreadcrumbsModule.java:181: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\render\NametagsModule.java:772: error: reached end of file while parsing
+/*     */ }
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ')' or ',' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: not a statement
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                      ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                         ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                               ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                    ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: not a statement
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+/* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\render\MixinBufferBuilderStorage.java:68: error: -> expected
+/*    */           class_1088.field_21772.forEach(());
+                                                    ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: ')' or ',' expected
+/*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: not a statement
+/*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: ';' expected
+/*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\math\position\TimedVec3d.java:44: error: illegal start of expression
+/*    */   public TimedVec3d(class_243 pos, long time) {
+           ^
+C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\StreamUtils.java:69: error: reached end of file while parsing
+/*    */ }
+          ^
+47 errors
+
+
+FAILURE: Build failed with an exception.
+> Task :compileJava FAILED
+
+* What went wrong:
+
+[Incubating] Problems report is available at: file:///C:/Users/kanax/OneDrive/Desktop/Shoreline/build/reports/problems/problems-report.html
+Execution failed for task ':compileJava'.
+> Compilation failed; see the compiler output below.
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: not a statement
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: not a statement
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                        ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: not a statement
+  /*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ')' or ',' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                  ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: ')' or ',' expected
+  /*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:1: error: implicitly declared class should not have package declaration
+  /*    */ package net.shoreline.client.impl.module;
+           ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\model\MinecraftProfile.java:37: error: reached end of file while parsing
+  /*   */    }
+              ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\security\PKCEData.java:39: error: reached end of file while parsing
+  /*   */    }
+              ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\Glyph.java:43: error: reached end of file while parsing
+  /*    */ }
+            ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\font\AWTFontRenderer.java:409: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\combat\AutoAnchorModule.java:443: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\exploit\BacktrackModule.java:202: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\misc\PacketLoggerModule.java:262: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\render\BreadcrumbsModule.java:181: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\render\NametagsModule.java:772: error: reached end of file while parsing
+  /*     */ }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\StreamUtils.java:69: error: reached end of file while parsing
+  /*    */ }
+            ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:22: error: class, interface, enum, or record expected
+  /*    */   extends LinkedList<class_2248>
+                               ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:28: error: class, interface, enum, or record expected
+  /*    */   }
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+  /* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+  /* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                              ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+  /* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                                                        ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:189: error: illegal start of expression
+  /* 189 */               }, , { "code_verifier", this.pkceData.verifier() }, , { "code", oauthToken }, , { "grant_type", "authorization_code" }, , { "redirect_uri", "http://localhost:6969/login"
+                                                                                                                                                  ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:193: error: illegal start of expression
+  /* 193 */           ), ContentType.create(ContentType.APPLICATION_FORM_URLENCODED
+                      ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:266: error: illegal start of expression
+  /*     */               }, ,
+                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:269: error: illegal start of expression
+  /* 269 */               }, , { "passwd", encodedPassword }, , { "PPFT", result.getSfttTag() }, 
+                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:269: error: illegal start of expression
+  /* 269 */               }, , { "passwd", encodedPassword }, , { "PPFT", result.getSfttTag() }, 
+                                                              ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\account\msa\MSAAuthenticator.java:270: error: illegal start of expression
+  /* 270 */             }, ), ContentType.create(contentTypeRaw)));
+                           ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\manager\anticheat\SetbackData.java:41: error: illegal start of expression
+  /*    */   public long timeSince() {
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\BlockPlacerModule.java:79: error: illegal start of expression
+  /*    */     public boolean equals(Object obj) {
+               ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\math\position\TimedVec3d.java:44: error: illegal start of expression
+  /*    */   public TimedVec3d(class_243 pos, long time) {
+             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\misc\BeaconSelectorModule.java:37: error: variable declaration not allowed here
+  /* 37 */     class_2596 class_2596 = event.getPacket(); if (class_2596 instanceof class_2866) class_2866 class_2866 = (class_2866)class_2596;
+                                                                                                           ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:26: error: invalid method declaration; return type required
+  /* 26 */     add(class_2246.field_22423);
+               ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:27: error: invalid method declaration; return type required
+  /* 27 */     add(class_2246.field_10443);
+               ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\FontRenderer.java:10: error: = expected
+  /*    */   public static final GlyphVisitor DEFAULT_VISITOR;
+                                                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\gui\account\AccountAddAccountScreen.java:88: error: -> expected
+  /*     */               AccountManager.MSA_AUTHENTICATOR.loginWithBrowser(());
+                                                                              ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\gui\account\AccountSelectorScreen.java:95: error: -> expected
+  /*     */             this.field_22787.method_1507((class_437)new class_410((), class_2561.method_30163("Delete account?"), class_2561.method_30163("Are you sure you would like to delete " + entry.getAccount().username() + "?"), class_2561.method_30163("Yes"), class_2561.method_30163("No")));
+                                                                                ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:21: error: <identifier> expected
+  /*    */ class null
+                ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:26: error: <identifier> expected
+  /* 26 */     add(class_2246.field_22423);
+                                         ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\impl\module\ObsidianPlacerModule$1.java:27: error: <identifier> expected
+  /* 27 */     add(class_2246.field_10443);
+                                         ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                        ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                           ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                 ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\option\MixinGameOptions.java:38: error: ';' expected
+  /* 38 */       .field_1826 = new class_7172("options.fov", class_7172.method_42399(), (optionText, value) -> { switch (value.intValue()) { case 70: case 110:  }  return class_315.method_41782(optionText, value.intValue()); }(class_7172.class_7178)new class_7172.class_7174(30, 180), Codec.DOUBLE.xmap(value -> Integer.valueOf((int)(value.doubleValue() * 40.0D + 70.0D)), value -> Double.valueOf((value.intValue() - 70.0D) / 40.0D)), Integer.valueOf(70), value -> (class_310.method_1551()).field_1769.method_3292());
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\mixin\render\MixinBufferBuilderStorage.java:68: error: -> expected
+  /*    */           class_1088.field_21772.forEach(());
+                                                      ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\util\FormattingUtil.java:25: error: ';' expected
+  /*  25 */     text.method_27658((styleOverride, message) -> { if (!message.isEmpty()) { if (styleOverride.method_10973() != null) { int rgb = styleOverride.method_10973().method_27716(); if (rgb == (ColorsModule.getInstance().getRGB().intValue() & 0xFFFFFF)) { builder.append('§').append("s"); } else if (rgb == (SocialsModule.getInstance().getFriendRGB() & 0xFFFFFF)) { builder.append('§').append("g"); } else { class_124 formatting = COLOR_TO_FORMATTING.get(Integer.valueOf(rgb)); if (formatting != null) builder.append('§').append(formatting.method_36145());  }  } else if (styleOverride.method_10987()) { builder.append('§').append("k"); } else if (styleOverride.method_10984()) { builder.append('§').append("l"); } else if (styleOverride.method_10986()) { builder.append('§').append("m"); } else if (styleOverride.method_10965()) { builder.append('§').append("n"); } else if (styleOverride.method_10966()) { builder.append('§').append("o"); } else { builder.append('§').append("r"); }  builder.append(message); }  return Optional.empty(); }class_2583.field_24360);
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                             ^
+  C:\Users\kanax\OneDrive\Desktop\Shoreline\net\shoreline\client\api\font\FontRenderer.java:12: error: initializers not allowed in interfaces
+  /*    */   static {
+                    ^
+  47 errors
+
+* Try:
+> Check your code and dependencies to fix the compilation error(s)
+> Run with --scan to get full insights.
+
+BUILD FAILED in 57s
+1 actionable task: 1 executed

@@ -1,0 +1,21 @@
+{
+  "name": "Trajectories",
+  "id": "trajectories-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "trajectories-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "trajectories-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "trajectories-notify-config",
+      "value": false
+    }
+  ]
+}

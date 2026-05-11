@@ -1,0 +1,21 @@
+{
+  "name": "AntiLevitation",
+  "id": "antilevitation-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "antilevitation-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "antilevitation-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "antilevitation-notify-config",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "InvCleaner",
+  "id": "invcleaner-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "invcleaner-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "invcleaner-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "invcleaner-notify-config",
+      "value": false
+    },
+    {
+      "name": "Blacklist",
+      "id": "invcleaner-blacklist-config",
+      "value": []
+    },
+    {
+      "name": "Delay",
+      "id": "invcleaner-delay-config",
+      "value": 0.05
+    },
+    {
+      "name": "Hotbar",
+      "id": "invcleaner-hotbar-config",
+      "value": true
+    }
+  ]
+}

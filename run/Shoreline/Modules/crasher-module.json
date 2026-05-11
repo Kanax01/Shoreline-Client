@@ -1,0 +1,26 @@
+{
+  "name": "Crasher",
+  "id": "crasher-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "crasher-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "crasher-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "crasher-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "crasher-mode-config",
+      "value": "ARMOR"
+    }
+  ]
+}

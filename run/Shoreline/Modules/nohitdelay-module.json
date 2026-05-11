@@ -1,0 +1,21 @@
+{
+  "name": "NoHitDelay",
+  "id": "nohitdelay-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nohitdelay-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nohitdelay-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nohitdelay-notify-config",
+      "value": false
+    }
+  ]
+}

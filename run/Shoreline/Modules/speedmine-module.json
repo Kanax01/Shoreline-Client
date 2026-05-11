@@ -1,0 +1,98 @@
+{
+  "name": "Speedmine",
+  "id": "speedmine-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "speedmine-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "speedmine-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "speedmine-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "speedmine-multitask-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "speedmine-mode-config",
+      "value": "PACKET"
+    },
+    {
+      "name": "DoubleBreak",
+      "id": "speedmine-doublebreak-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "speedmine-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "Speed",
+      "id": "speedmine-speed-config",
+      "value": 1.0
+    },
+    {
+      "name": "Instant",
+      "id": "speedmine-instant-config",
+      "value": false
+    },
+    {
+      "name": "AutoSwap",
+      "id": "speedmine-autoswap-config",
+      "value": "SILENT"
+    },
+    {
+      "name": "Rotate",
+      "id": "speedmine-rotate-config",
+      "value": true
+    },
+    {
+      "name": "SwitchReset",
+      "id": "speedmine-switchreset-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "speedmine-grim-config",
+      "value": false
+    },
+    {
+      "name": "GrimV3",
+      "id": "speedmine-grimv3-config",
+      "value": false
+    },
+    {
+      "name": "MineColor",
+      "id": "speedmine-minecolor-config",
+      "value": "ffff0000",
+      "global": false
+    },
+    {
+      "name": "DoneColor",
+      "id": "speedmine-donecolor-config",
+      "value": "ff00ff00",
+      "global": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "speedmine-fade-time-config",
+      "value": 250
+    },
+    {
+      "name": "ColorSmooth",
+      "id": "speedmine-colorsmooth-config",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "name": "SafeWalk",
+  "id": "safewalk-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "safewalk-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "safewalk-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "safewalk-notify-config",
+      "value": false
+    },
+    {
+      "name": "Sneak",
+      "id": "safewalk-sneak-config",
+      "value": false
+    }
+  ]
+}

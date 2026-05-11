@@ -1,0 +1,21 @@
+{
+  "name": "MultiTask",
+  "id": "multitask-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "multitask-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "multitask-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "multitask-notify-config",
+      "value": false
+    }
+  ]
+}

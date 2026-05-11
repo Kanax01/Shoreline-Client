@@ -1,0 +1,41 @@
+{
+  "name": "ClickCrystal",
+  "id": "clickcrystal-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "clickcrystal-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "clickcrystal-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "clickcrystal-notify-config",
+      "value": false
+    },
+    {
+      "name": "SpawnDelay",
+      "id": "clickcrystal-spawndelay-config",
+      "value": 0.0
+    },
+    {
+      "name": "RandomDelay",
+      "id": "clickcrystal-randomdelay-config",
+      "value": 0.0
+    },
+    {
+      "name": "Rotate",
+      "id": "clickcrystal-rotate-config",
+      "value": false
+    },
+    {
+      "name": "RotateJitter",
+      "id": "clickcrystal-rotatejitter-config",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,136 @@
+{
+  "name": "Nuker",
+  "id": "nuker-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nuker-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nuker-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nuker-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "nuker-multitask-config",
+      "value": false
+    },
+    {
+      "name": "Selection",
+      "id": "nuker-selection-config",
+      "value": "ALL"
+    },
+    {
+      "name": "Whitelist",
+      "id": "nuker-whitelist-config",
+      "value": [
+        "minecraft:obsidian",
+        "minecraft:crying_obsidian"
+      ]
+    },
+    {
+      "name": "Blacklist",
+      "id": "nuker-blacklist-config",
+      "value": []
+    },
+    {
+      "name": "Mode",
+      "id": "nuker-mode-config",
+      "value": "SPHERE"
+    },
+    {
+      "name": "Flatten",
+      "id": "nuker-flatten-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "nuker-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "nuker-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "DoubleBreak",
+      "id": "nuker-doublebreak-config",
+      "value": false
+    },
+    {
+      "name": "MiningTicks",
+      "id": "nuker-miningticks-config",
+      "value": 20
+    },
+    {
+      "name": "Speed",
+      "id": "nuker-speed-config",
+      "value": 1.0
+    },
+    {
+      "name": "AutoSwap",
+      "id": "nuker-autoswap-config",
+      "value": "SILENT"
+    },
+    {
+      "name": "SwapBefore",
+      "id": "nuker-swapbefore-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "nuker-rotate-config",
+      "value": true
+    },
+    {
+      "name": "SwitchReset",
+      "id": "nuker-switchreset-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "nuker-grim-config",
+      "value": false
+    },
+    {
+      "name": "GrimV3",
+      "id": "nuker-grimv3-config",
+      "value": false
+    },
+    {
+      "name": "MineColor",
+      "id": "nuker-minecolor-config",
+      "value": "ffff0000",
+      "global": false
+    },
+    {
+      "name": "DoneColor",
+      "id": "nuker-donecolor-config",
+      "value": "ff00ff00",
+      "global": false
+    },
+    {
+      "name": "Debug-Ticks",
+      "id": "nuker-debug-ticks-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "nuker-fade-time-config",
+      "value": 250
+    },
+    {
+      "name": "SmoothColor",
+      "id": "nuker-smoothcolor-config",
+      "value": false
+    }
+  ]
+}

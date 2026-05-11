@@ -1,0 +1,66 @@
+{
+  "name": "Animations",
+  "id": "animations-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "animations-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "animations-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "animations-notify-config",
+      "value": false
+    },
+    {
+      "name": "NoSwitchAnimation",
+      "id": "animations-noswitchanimation-config",
+      "value": false
+    },
+    {
+      "name": "OldSwingAnimation",
+      "id": "animations-oldswinganimation-config",
+      "value": false
+    },
+    {
+      "name": "SwingSpeed",
+      "id": "animations-swingspeed-config",
+      "value": false
+    },
+    {
+      "name": "SwingFactor",
+      "id": "animations-swingfactor-config",
+      "value": 6
+    },
+    {
+      "name": "SelfOnly",
+      "id": "animations-selfonly-config",
+      "value": true
+    },
+    {
+      "name": "EatTransform",
+      "id": "animations-eattransform-config",
+      "value": false
+    },
+    {
+      "name": "EatTransform-Factor",
+      "id": "animations-eattransform-factor-config",
+      "value": 1.0
+    },
+    {
+      "name": "NoLimbSwing",
+      "id": "animations-nolimbswing-config",
+      "value": false
+    },
+    {
+      "name": "NoInterpolation",
+      "id": "animations-nointerpolation-config",
+      "value": false
+    }
+  ]
+}

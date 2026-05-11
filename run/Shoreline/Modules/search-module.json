@@ -1,0 +1,73 @@
+{
+  "name": "Search",
+  "id": "search-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "search-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "search-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "search-notify-config",
+      "value": false
+    },
+    {
+      "name": "Blocks",
+      "id": "search-blocks-config",
+      "value": [
+        "minecraft:nether_portal",
+        "minecraft:end_portal",
+        "minecraft:ender_chest",
+        "minecraft:chest",
+        "minecraft:trapped_chest",
+        "minecraft:dispenser",
+        "minecraft:dropper",
+        "minecraft:shulker_box",
+        "minecraft:black_shulker_box",
+        "minecraft:blue_shulker_box",
+        "minecraft:light_blue_shulker_box",
+        "minecraft:green_shulker_box",
+        "minecraft:cyan_shulker_box",
+        "minecraft:brown_shulker_box",
+        "minecraft:gray_shulker_box",
+        "minecraft:light_gray_shulker_box",
+        "minecraft:lime_shulker_box",
+        "minecraft:magenta_shulker_box",
+        "minecraft:orange_shulker_box",
+        "minecraft:pink_shulker_box",
+        "minecraft:purple_shulker_box",
+        "minecraft:red_shulker_box",
+        "minecraft:white_shulker_box",
+        "minecraft:yellow_shulker_box",
+        "minecraft:spawner",
+        "minecraft:end_portal_frame"
+      ]
+    },
+    {
+      "name": "Tracers",
+      "id": "search-tracers-config",
+      "value": false
+    },
+    {
+      "name": "Width",
+      "id": "search-width-config",
+      "value": 1.0
+    },
+    {
+      "name": "Fill",
+      "id": "search-fill-config",
+      "value": true
+    },
+    {
+      "name": "SoftReload",
+      "id": "search-softreload-config",
+      "value": false
+    }
+  ]
+}

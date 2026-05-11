@@ -1,0 +1,54 @@
+{
+  "name": "PhaseESP",
+  "id": "phaseesp-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "phaseesp-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "phaseesp-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "phaseesp-notify-config",
+      "value": false
+    },
+    {
+      "name": "Width",
+      "id": "phaseesp-width-config",
+      "value": 1.0
+    },
+    {
+      "name": "Diagonal",
+      "id": "phaseesp-diagonal-config",
+      "value": true
+    },
+    {
+      "name": "Safe",
+      "id": "phaseesp-safe-config",
+      "value": false
+    },
+    {
+      "name": "UnsafeColor",
+      "id": "phaseesp-unsafecolor-config",
+      "value": "ffff0000",
+      "global": false
+    },
+    {
+      "name": "ObsidianColor",
+      "id": "phaseesp-obsidiancolor-config",
+      "value": "ffffff00",
+      "global": false
+    },
+    {
+      "name": "BedrockColor",
+      "id": "phaseesp-bedrockcolor-config",
+      "value": "ff00ff00",
+      "global": false
+    }
+  ]
+}

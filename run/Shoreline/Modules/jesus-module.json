@@ -1,0 +1,31 @@
+{
+  "name": "Jesus",
+  "id": "jesus-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "jesus-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "jesus-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "jesus-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "jesus-mode-config",
+      "value": "SOLID"
+    },
+    {
+      "name": "Strict",
+      "id": "jesus-strict-config",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,46 @@
+{
+  "name": "BowAim",
+  "id": "bowaim-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "bowaim-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "bowaim-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "bowaim-notify-config",
+      "value": false
+    },
+    {
+      "name": "Players",
+      "id": "bowaim-players-config",
+      "value": true
+    },
+    {
+      "name": "Monsters",
+      "id": "bowaim-monsters-config",
+      "value": false
+    },
+    {
+      "name": "Neutrals",
+      "id": "bowaim-neutrals-config",
+      "value": false
+    },
+    {
+      "name": "Animals",
+      "id": "bowaim-animals-config",
+      "value": false
+    },
+    {
+      "name": "Invisibles",
+      "id": "bowaim-invisibles-config",
+      "value": false
+    }
+  ]
+}

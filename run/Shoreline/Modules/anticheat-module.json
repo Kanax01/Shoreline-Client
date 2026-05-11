@@ -1,0 +1,26 @@
+{
+  "name": "Anticheat",
+  "id": "anticheat-module",
+  "configs": [
+    {
+      "name": "Mode",
+      "id": "anticheat-mode-config",
+      "value": "VANILLA"
+    },
+    {
+      "name": "MiningFix",
+      "id": "anticheat-miningfix-config",
+      "value": false
+    },
+    {
+      "name": "WebJumpFix",
+      "id": "anticheat-webjumpfix-config",
+      "value": false
+    },
+    {
+      "name": "RaytraceFix",
+      "id": "anticheat-raytracefix-config",
+      "value": false
+    }
+  ]
+}

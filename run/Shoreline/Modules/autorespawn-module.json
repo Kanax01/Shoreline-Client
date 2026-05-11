@@ -1,0 +1,21 @@
+{
+  "name": "AutoRespawn",
+  "id": "autorespawn-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autorespawn-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autorespawn-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autorespawn-notify-config",
+      "value": false
+    }
+  ]
+}

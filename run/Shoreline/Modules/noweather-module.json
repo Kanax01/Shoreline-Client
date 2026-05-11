@@ -1,0 +1,26 @@
+{
+  "name": "NoWeather",
+  "id": "noweather-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "noweather-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "noweather-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "noweather-notify-config",
+      "value": false
+    },
+    {
+      "name": "Weather",
+      "id": "noweather-weather-config",
+      "value": "CLEAR"
+    }
+  ]
+}

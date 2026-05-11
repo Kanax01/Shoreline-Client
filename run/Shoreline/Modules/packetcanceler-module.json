@@ -1,0 +1,91 @@
+{
+  "name": "PacketCanceler",
+  "id": "packetcanceler-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "packetcanceler-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "packetcanceler-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "packetcanceler-notify-config",
+      "value": false
+    },
+    {
+      "name": "PlayerMove",
+      "id": "packetcanceler-playermove-config",
+      "value": false
+    },
+    {
+      "name": "PlayerInput",
+      "id": "packetcanceler-playerinput-config",
+      "value": false
+    },
+    {
+      "name": "PlayerInteractBlock",
+      "id": "packetcanceler-playerinteractblock-config",
+      "value": false
+    },
+    {
+      "name": "PlayerInteractEntity",
+      "id": "packetcanceler-playerinteractentity-config",
+      "value": false
+    },
+    {
+      "name": "PlayerInteractItem",
+      "id": "packetcanceler-playerinteractitem-config",
+      "value": false
+    },
+    {
+      "name": "CraftRequest",
+      "id": "packetcanceler-craftrequest-config",
+      "value": false
+    },
+    {
+      "name": "UpdateSelectedSlot",
+      "id": "packetcanceler-updateselectedslot-config",
+      "value": false
+    },
+    {
+      "name": "ClickSlot",
+      "id": "packetcanceler-clickslot-config",
+      "value": false
+    },
+    {
+      "name": "PickFromInventory",
+      "id": "packetcanceler-pickfrominventory-config",
+      "value": false
+    },
+    {
+      "name": "CreativeInventoryAction",
+      "id": "packetcanceler-creativeinventoryaction-config",
+      "value": false
+    },
+    {
+      "name": "HandSwing",
+      "id": "packetcanceler-handswing-config",
+      "value": false
+    },
+    {
+      "name": "TeleportConfirm",
+      "id": "packetcanceler-teleportconfirm-config",
+      "value": false
+    },
+    {
+      "name": "KeepAlive",
+      "id": "packetcanceler-keepalive-config",
+      "value": false
+    },
+    {
+      "name": "CommonPong",
+      "id": "packetcanceler-commonpong-config",
+      "value": false
+    }
+  ]
+}

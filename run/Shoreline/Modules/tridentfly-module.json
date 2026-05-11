@@ -1,0 +1,41 @@
+{
+  "name": "TridentFly",
+  "id": "tridentfly-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "tridentfly-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "tridentfly-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "tridentfly-notify-config",
+      "value": false
+    },
+    {
+      "name": "AllowNoWater",
+      "id": "tridentfly-allownowater-config",
+      "value": true
+    },
+    {
+      "name": "Instant",
+      "id": "tridentfly-instant-config",
+      "value": true
+    },
+    {
+      "name": "Spam",
+      "id": "tridentfly-spam-config",
+      "value": false
+    },
+    {
+      "name": "Ticks",
+      "id": "tridentfly-ticks-config",
+      "value": 3
+    }
+  ]
+}

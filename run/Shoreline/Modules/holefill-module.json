@@ -1,0 +1,101 @@
+{
+  "name": "HoleFill",
+  "id": "holefill-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "holefill-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "holefill-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "holefill-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "holefill-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "holefill-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "holefill-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Obsidian",
+      "id": "holefill-obsidian-config",
+      "value": true
+    },
+    {
+      "name": "Doubles",
+      "id": "holefill-doubles-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "holefill-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "Webs",
+      "id": "holefill-webs-config",
+      "value": false
+    },
+    {
+      "name": "Auto",
+      "id": "holefill-auto-config",
+      "value": false
+    },
+    {
+      "name": "TargetRange",
+      "id": "holefill-targetrange-config",
+      "value": 3.0
+    },
+    {
+      "name": "EnemyRange",
+      "id": "holefill-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "Attack",
+      "id": "holefill-attack-config",
+      "value": true
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "holefill-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "holefill-shiftdelay-config",
+      "value": 1
+    },
+    {
+      "name": "AutoDisable",
+      "id": "holefill-autodisable-config",
+      "value": false
+    },
+    {
+      "name": "Render",
+      "id": "holefill-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "holefill-fade-time-config",
+      "value": 250
+    }
+  ]
+}

@@ -1,0 +1,41 @@
+{
+  "name": "ChorusInvincibility",
+  "id": "chorusinvincibility-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "chorusinvincibility-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "chorusinvincibility-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "chorusinvincibility-notify-config",
+      "value": false
+    },
+    {
+      "name": "CheckHealth",
+      "id": "chorusinvincibility-checkhealth-config",
+      "value": false
+    },
+    {
+      "name": "Health",
+      "id": "chorusinvincibility-health-config",
+      "value": 20.0
+    },
+    {
+      "name": "CheckTotems",
+      "id": "chorusinvincibility-checktotems-config",
+      "value": false
+    },
+    {
+      "name": "Totems",
+      "id": "chorusinvincibility-totems-config",
+      "value": 0
+    }
+  ]
+}

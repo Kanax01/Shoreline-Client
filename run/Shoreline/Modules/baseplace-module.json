@@ -1,0 +1,71 @@
+{
+  "name": "BasePlace",
+  "id": "baseplace-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "baseplace-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "baseplace-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "baseplace-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "baseplace-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "baseplace-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "baseplace-rotate-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "baseplace-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "EnemyRange",
+      "id": "baseplace-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "baseplace-shiftdelay-config",
+      "value": 1.0
+    },
+    {
+      "name": "MinDamage",
+      "id": "baseplace-mindamage-config",
+      "value": 4.0
+    },
+    {
+      "name": "AssumeBestArmor",
+      "id": "baseplace-assumebestarmor-config",
+      "value": false
+    },
+    {
+      "name": "Render",
+      "id": "baseplace-render-config",
+      "value": true
+    },
+    {
+      "name": "Fade-Time",
+      "id": "baseplace-fade-time-config",
+      "value": 250
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "name": "AntiVanish",
+  "id": "antivanish-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "antivanish-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "antivanish-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "antivanish-notify-config",
+      "value": false
+    }
+  ]
+}

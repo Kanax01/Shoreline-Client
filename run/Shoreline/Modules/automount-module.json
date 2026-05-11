@@ -1,0 +1,51 @@
+{
+  "name": "AutoMount",
+  "id": "automount-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "automount-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "automount-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "automount-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "automount-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "ForceMount",
+      "id": "automount-forcemount-config",
+      "value": false
+    },
+    {
+      "name": "Horse",
+      "id": "automount-horse-config",
+      "value": true
+    },
+    {
+      "name": "Donkey",
+      "id": "automount-donkey-config",
+      "value": true
+    },
+    {
+      "name": "Mule",
+      "id": "automount-mule-config",
+      "value": true
+    },
+    {
+      "name": "Llama",
+      "id": "automount-llama-config",
+      "value": false
+    }
+  ]
+}

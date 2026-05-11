@@ -1,0 +1,21 @@
+{
+  "name": "NoSoundLag",
+  "id": "nosoundlag-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nosoundlag-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nosoundlag-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nosoundlag-notify-config",
+      "value": false
+    }
+  ]
+}

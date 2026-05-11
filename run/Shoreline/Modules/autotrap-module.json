@@ -1,0 +1,91 @@
+{
+  "name": "AutoTrap",
+  "id": "autotrap-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autotrap-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autotrap-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autotrap-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "autotrap-multitask-config",
+      "value": true
+    },
+    {
+      "name": "StrictDirection",
+      "id": "autotrap-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "autotrap-rotate-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "autotrap-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "Attack",
+      "id": "autotrap-attack-config",
+      "value": true
+    },
+    {
+      "name": "Extend",
+      "id": "autotrap-extend-config",
+      "value": true
+    },
+    {
+      "name": "Support",
+      "id": "autotrap-support-config",
+      "value": false
+    },
+    {
+      "name": "Head",
+      "id": "autotrap-head-config",
+      "value": true
+    },
+    {
+      "name": "PreventStep",
+      "id": "autotrap-preventstep-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "autotrap-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "autotrap-shiftdelay-config",
+      "value": 1.0
+    },
+    {
+      "name": "AutoDisable",
+      "id": "autotrap-autodisable-config",
+      "value": true
+    },
+    {
+      "name": "Render",
+      "id": "autotrap-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "autotrap-fade-time-config",
+      "value": 250
+    }
+  ]
+}

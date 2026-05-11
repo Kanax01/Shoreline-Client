@@ -1,0 +1,602 @@
+[
+  {
+    "id": "sprint-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antihunger-module-macro",
+    "value": -1
+  },
+  {
+    "id": "clickgui-module-macro",
+    "value": 344
+  },
+  {
+    "id": "flight-module-macro",
+    "value": -1
+  },
+  {
+    "id": "holefill-module-macro",
+    "value": -1
+  },
+  {
+    "id": "replenish-module-macro",
+    "value": -1
+  },
+  {
+    "id": "entitycontrol-module-macro",
+    "value": -1
+  },
+  {
+    "id": "multitask-module-macro",
+    "value": -1
+  },
+  {
+    "id": "longjump-module-macro",
+    "value": -1
+  },
+  {
+    "id": "crystalmodel-module-macro",
+    "value": -1
+  },
+  {
+    "id": "velocity-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autotool-module-macro",
+    "value": -1
+  },
+  {
+    "id": "timer-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoaccept-module-macro",
+    "value": -1
+  },
+  {
+    "id": "noweather-module-macro",
+    "value": -1
+  },
+  {
+    "id": "speedmine-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fastlatency-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fastprojectile-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autowalk-module-macro",
+    "value": -1
+  },
+  {
+    "id": "yaw-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autotrap-module-macro",
+    "value": -1
+  },
+  {
+    "id": "choruscontrol-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antilevitation-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nofall-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autocrystal-module-macro",
+    "value": -1
+  },
+  {
+    "id": "tickshift-module-macro",
+    "value": -1
+  },
+  {
+    "id": "entityspeed-module-macro",
+    "value": -1
+  },
+  {
+    "id": "viewclip-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autobowrelease-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nomineanimation-module-macro",
+    "value": -1
+  },
+  {
+    "id": "animations-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fakelatency-module-macro",
+    "value": -1
+  },
+  {
+    "id": "phase-module-macro",
+    "value": -1
+  },
+  {
+    "id": "search-module-macro",
+    "value": -1
+  },
+  {
+    "id": "xcarry-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autototem-module-macro",
+    "value": -1
+  },
+  {
+    "id": "packetfly-module-macro",
+    "value": -1
+  },
+  {
+    "id": "noglitchblocks-module-macro",
+    "value": -1
+  },
+  {
+    "id": "automount-module-macro",
+    "value": -1
+  },
+  {
+    "id": "betterinv-module-macro",
+    "value": -1
+  },
+  {
+    "id": "phaseesp-module-macro",
+    "value": -1
+  },
+  {
+    "id": "chorusinvincibility-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antiinteract-module-macro",
+    "value": -1
+  },
+  {
+    "id": "keepsprint-module-macro",
+    "value": -1
+  },
+  {
+    "id": "selffill-module-macro",
+    "value": -1
+  },
+  {
+    "id": "cheststealer-module-macro",
+    "value": -1
+  },
+  {
+    "id": "pmsound-module-macro",
+    "value": -1
+  },
+  {
+    "id": "disabler-module-macro",
+    "value": -1
+  },
+  {
+    "id": "crasher-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fastswim-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fastplace-module-macro",
+    "value": -1
+  },
+  {
+    "id": "godmode-module-macro",
+    "value": -1
+  },
+  {
+    "id": "chestswap-module-macro",
+    "value": -1
+  },
+  {
+    "id": "noaccel-module-macro",
+    "value": -1
+  },
+  {
+    "id": "surround-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nosoundlag-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fireworkboost-module-macro",
+    "value": -1
+  },
+  {
+    "id": "killeffects-module-macro",
+    "value": -1
+  },
+  {
+    "id": "shaders-module-macro",
+    "value": -1
+  },
+  {
+    "id": "extendedfirework-module-macro",
+    "value": -1
+  },
+  {
+    "id": "inventorysync-module-macro",
+    "value": -1
+  },
+  {
+    "id": "betterchat-module-macro",
+    "value": -1
+  },
+  {
+    "id": "safewalk-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autolog-module-macro",
+    "value": -1
+  },
+  {
+    "id": "airplace-module-macro",
+    "value": -1
+  },
+  {
+    "id": "hud-module-macro",
+    "value": -1
+  },
+  {
+    "id": "trigger-module-macro",
+    "value": -1
+  },
+  {
+    "id": "elytrafly-module-macro",
+    "value": -1
+  },
+  {
+    "id": "clickcrystal-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nohitdelay-module-macro",
+    "value": -1
+  },
+  {
+    "id": "blockhighlight-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nopacketkick-module-macro",
+    "value": -1
+  },
+  {
+    "id": "breadcrumbs-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autofish-module-macro",
+    "value": -1
+  },
+  {
+    "id": "freecam-module-macro",
+    "value": -1
+  },
+  {
+    "id": "tooltips-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoanchor-module-macro",
+    "value": -1
+  },
+  {
+    "id": "holeesp-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fastfall-module-macro",
+    "value": -1
+  },
+  {
+    "id": "invcleaner-module-macro",
+    "value": -1
+  },
+  {
+    "id": "freelook-module-macro",
+    "value": -1
+  },
+  {
+    "id": "shulkerception-module-macro",
+    "value": -1
+  },
+  {
+    "id": "waypoints-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoreconnect-module-macro",
+    "value": -1
+  },
+  {
+    "id": "avoid-module-macro",
+    "value": -1
+  },
+  {
+    "id": "tridentfly-module-macro",
+    "value": -1
+  },
+  {
+    "id": "baseplace-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoxp-module-macro",
+    "value": -1
+  },
+  {
+    "id": "chatnotifier-module-macro",
+    "value": -1
+  },
+  {
+    "id": "esp-module-macro",
+    "value": -1
+  },
+  {
+    "id": "swing-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autocrawltrap-module-macro",
+    "value": -1
+  },
+  {
+    "id": "skinblink-module-macro",
+    "value": -1
+  },
+  {
+    "id": "selfbow-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antispam-module-macro",
+    "value": -1
+  },
+  {
+    "id": "spammer-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fakelag-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoweb-module-macro",
+    "value": -1
+  },
+  {
+    "id": "step-module-macro",
+    "value": -1
+  },
+  {
+    "id": "selftrap-module-macro",
+    "value": -1
+  },
+  {
+    "id": "ambience-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nameprotect-module-macro",
+    "value": -1
+  },
+  {
+    "id": "trajectories-module-macro",
+    "value": -1
+  },
+  {
+    "id": "noslow-module-macro",
+    "value": -1
+  },
+  {
+    "id": "storageesp-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fakeplayer-module-macro",
+    "value": -1
+  },
+  {
+    "id": "chat-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antiaim-module-macro",
+    "value": -1
+  },
+  {
+    "id": "packetlogger-module-macro",
+    "value": -1
+  },
+  {
+    "id": "aura-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autorespawn-module-macro",
+    "value": -1
+  },
+  {
+    "id": "icespeed-module-macro",
+    "value": -1
+  },
+  {
+    "id": "scaffold-module-macro",
+    "value": -1
+  },
+  {
+    "id": "clientspoof-module-macro",
+    "value": -1
+  },
+  {
+    "id": "packetcanceler-module-macro",
+    "value": -1
+  },
+  {
+    "id": "reach-module-macro",
+    "value": -1
+  },
+  {
+    "id": "unfocusedfps-module-macro",
+    "value": -1
+  },
+  {
+    "id": "breakhighlight-module-macro",
+    "value": -1
+  },
+  {
+    "id": "tracers-module-macro",
+    "value": -1
+  },
+  {
+    "id": "truesight-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nametags-module-macro",
+    "value": -1
+  },
+  {
+    "id": "newchunks-module-macro",
+    "value": -1
+  },
+  {
+    "id": "jesus-module-macro",
+    "value": -1
+  },
+  {
+    "id": "parkour-module-macro",
+    "value": -1
+  },
+  {
+    "id": "crosshair-module-macro",
+    "value": -1
+  },
+  {
+    "id": "fullbright-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nuker-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoanvilrename-module-macro",
+    "value": -1
+  },
+  {
+    "id": "extratab-module-macro",
+    "value": -1
+  },
+  {
+    "id": "norender-module-macro",
+    "value": -1
+  },
+  {
+    "id": "viewmodel-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antivanish-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoarmor-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nobob-module-macro",
+    "value": -1
+  },
+  {
+    "id": "truedurability-module-macro",
+    "value": -1
+  },
+  {
+    "id": "zoom-module-macro",
+    "value": -1
+  },
+  {
+    "id": "font-module-macro",
+    "value": -1
+  },
+  {
+    "id": "antiafk-module-macro",
+    "value": -1
+  },
+  {
+    "id": "middleclick-module-macro",
+    "value": -1
+  },
+  {
+    "id": "capes-module-macro",
+    "value": -1
+  },
+  {
+    "id": "chams-module-macro",
+    "value": -1
+  },
+  {
+    "id": "criticals-module-macro",
+    "value": -1
+  },
+  {
+    "id": "particles-module-macro",
+    "value": -1
+  },
+  {
+    "id": "automine-module-macro",
+    "value": -1
+  },
+  {
+    "id": "bowaim-module-macro",
+    "value": -1
+  },
+  {
+    "id": "nojumpdelay-module-macro",
+    "value": -1
+  },
+  {
+    "id": "norotate-module-macro",
+    "value": -1
+  },
+  {
+    "id": "skybox-module-macro",
+    "value": -1
+  },
+  {
+    "id": "speed-module-macro",
+    "value": -1
+  },
+  {
+    "id": "autoeat-module-macro",
+    "value": -1
+  }
+]

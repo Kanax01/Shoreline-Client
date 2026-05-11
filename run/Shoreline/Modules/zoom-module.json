@@ -1,0 +1,36 @@
+{
+  "name": "Zoom",
+  "id": "zoom-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "zoom-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "zoom-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "zoom-notify-config",
+      "value": false
+    },
+    {
+      "name": "Zoom",
+      "id": "zoom-zoom-config",
+      "value": 30
+    },
+    {
+      "name": "SmoothCamera",
+      "id": "zoom-smoothcamera-config",
+      "value": true
+    },
+    {
+      "name": "ZoomKey",
+      "id": "zoom-zoomkey-config",
+      "value": 67
+    }
+  ]
+}

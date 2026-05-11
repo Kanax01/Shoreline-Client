@@ -1,0 +1,136 @@
+{
+  "name": "AutoAnchor",
+  "id": "autoanchor-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoanchor-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoanchor-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoanchor-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "autoanchor-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "autoanchor-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "autoanchor-rotate-config",
+      "value": false
+    },
+    {
+      "name": "EnemyRange",
+      "id": "autoanchor-enemyrange-config",
+      "value": 10.0
+    },
+    {
+      "name": "Swing",
+      "id": "autoanchor-swing-config",
+      "value": true
+    },
+    {
+      "name": "Players",
+      "id": "autoanchor-players-config",
+      "value": true
+    },
+    {
+      "name": "Monsters",
+      "id": "autoanchor-monsters-config",
+      "value": false
+    },
+    {
+      "name": "Neutrals",
+      "id": "autoanchor-neutrals-config",
+      "value": false
+    },
+    {
+      "name": "Animals",
+      "id": "autoanchor-animals-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "autoanchor-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "ExplodeSpeed",
+      "id": "autoanchor-explodespeed-config",
+      "value": 18.0
+    },
+    {
+      "name": "Place",
+      "id": "autoanchor-place-config",
+      "value": true
+    },
+    {
+      "name": "PlaceSpeed",
+      "id": "autoanchor-placespeed-config",
+      "value": 18.0
+    },
+    {
+      "name": "Grim",
+      "id": "autoanchor-grim-config",
+      "value": false
+    },
+    {
+      "name": "AssumeBestArmor",
+      "id": "autoanchor-assumebestarmor-config",
+      "value": false
+    },
+    {
+      "name": "MinDamage",
+      "id": "autoanchor-mindamage-config",
+      "value": 4.0
+    },
+    {
+      "name": "Safety",
+      "id": "autoanchor-safety-config",
+      "value": true
+    },
+    {
+      "name": "MaxLocalDamage",
+      "id": "autoanchor-maxlocaldamage-config",
+      "value": 12.0
+    },
+    {
+      "name": "BlockDestruction",
+      "id": "autoanchor-blockdestruction-config",
+      "value": false
+    },
+    {
+      "name": "SelfExtrapolate",
+      "id": "autoanchor-selfextrapolate-config",
+      "value": false
+    },
+    {
+      "name": "ExtrapolationTicks",
+      "id": "autoanchor-extrapolationticks-config",
+      "value": 0
+    },
+    {
+      "name": "Render",
+      "id": "autoanchor-render-config",
+      "value": true
+    },
+    {
+      "name": "Fade-Time",
+      "id": "autoanchor-fade-time-config",
+      "value": 250
+    }
+  ]
+}

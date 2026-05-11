@@ -1,0 +1,163 @@
+{
+  "name": "AutoMine",
+  "id": "automine-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "automine-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "automine-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "automine-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "automine-multitask-config",
+      "value": false
+    },
+    {
+      "name": "Auto",
+      "id": "automine-auto-config",
+      "value": false
+    },
+    {
+      "name": "Selection",
+      "id": "automine-selection-config",
+      "value": "ALL"
+    },
+    {
+      "name": "Whitelist",
+      "id": "automine-whitelist-config",
+      "value": [
+        "minecraft:obsidian",
+        "minecraft:ender_chest"
+      ]
+    },
+    {
+      "name": "Blacklist",
+      "id": "automine-blacklist-config",
+      "value": [
+        "minecraft:shulker_box"
+      ]
+    },
+    {
+      "name": "AvoidSelf",
+      "id": "automine-avoidself-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "automine-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "EnemyRange",
+      "id": "automine-enemyrange-config",
+      "value": 5.0
+    },
+    {
+      "name": "AntiCrawl",
+      "id": "automine-anticrawl-config",
+      "value": false
+    },
+    {
+      "name": "TargetBody",
+      "id": "automine-targetbody-config",
+      "value": false
+    },
+    {
+      "name": "TargetHead",
+      "id": "automine-targethead-config",
+      "value": false
+    },
+    {
+      "name": "DoubleBreak",
+      "id": "automine-doublebreak-config",
+      "value": false
+    },
+    {
+      "name": "MiningTicks",
+      "id": "automine-miningticks-config",
+      "value": 20
+    },
+    {
+      "name": "Remine",
+      "id": "automine-remine-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Fast",
+      "id": "automine-fast-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "automine-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "Speed",
+      "id": "automine-speed-config",
+      "value": 1.0
+    },
+    {
+      "name": "AutoSwap",
+      "id": "automine-autoswap-config",
+      "value": "SILENT"
+    },
+    {
+      "name": "SwapBefore",
+      "id": "automine-swapbefore-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "automine-rotate-config",
+      "value": true
+    },
+    {
+      "name": "SwitchReset",
+      "id": "automine-switchreset-config",
+      "value": false
+    },
+    {
+      "name": "Grim",
+      "id": "automine-grim-config",
+      "value": false
+    },
+    {
+      "name": "GrimV3",
+      "id": "automine-grimv3-config",
+      "value": false
+    },
+    {
+      "name": "MineColor",
+      "id": "automine-minecolor-config",
+      "value": "ffff0000",
+      "global": false
+    },
+    {
+      "name": "DoneColor",
+      "id": "automine-donecolor-config",
+      "value": "ff00ff00",
+      "global": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "automine-fade-time-config",
+      "value": 250
+    },
+    {
+      "name": "SmoothColor",
+      "id": "automine-smoothcolor-config",
+      "value": false
+    }
+  ]
+}

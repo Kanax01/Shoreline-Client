@@ -1,0 +1,31 @@
+{
+  "name": "NoAccel",
+  "id": "noaccel-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "noaccel-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "noaccel-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "noaccel-notify-config",
+      "value": false
+    },
+    {
+      "name": "Air",
+      "id": "noaccel-air-config",
+      "value": true
+    },
+    {
+      "name": "Downwards",
+      "id": "noaccel-downwards-config",
+      "value": true
+    }
+  ]
+}

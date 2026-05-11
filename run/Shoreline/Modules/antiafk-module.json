@@ -1,0 +1,61 @@
+{
+  "name": "AntiAFK",
+  "id": "antiafk-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "antiafk-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "antiafk-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "antiafk-notify-config",
+      "value": false
+    },
+    {
+      "name": "AFKTime",
+      "id": "antiafk-afktime-config",
+      "value": 20.0
+    },
+    {
+      "name": "Message",
+      "id": "antiafk-message-config",
+      "value": true
+    },
+    {
+      "name": "TabComplete",
+      "id": "antiafk-tabcomplete-config",
+      "value": true
+    },
+    {
+      "name": "Rotate",
+      "id": "antiafk-rotate-config",
+      "value": true
+    },
+    {
+      "name": "Jump",
+      "id": "antiafk-jump-config",
+      "value": true
+    },
+    {
+      "name": "AutoReply",
+      "id": "antiafk-autoreply-config",
+      "value": false
+    },
+    {
+      "name": "Reply",
+      "id": "antiafk-reply-config",
+      "value": "I am currently AFK."
+    },
+    {
+      "name": "Delay",
+      "id": "antiafk-delay-config",
+      "value": 100.0
+    }
+  ]
+}

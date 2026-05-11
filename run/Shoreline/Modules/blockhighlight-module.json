@@ -1,0 +1,46 @@
+{
+  "name": "BlockHighlight",
+  "id": "blockhighlight-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "blockhighlight-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "blockhighlight-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "blockhighlight-notify-config",
+      "value": false
+    },
+    {
+      "name": "BoxMode",
+      "id": "blockhighlight-boxmode-config",
+      "value": "OUTLINE"
+    },
+    {
+      "name": "Debug-Entities",
+      "id": "blockhighlight-debug-entities-config",
+      "value": false
+    },
+    {
+      "name": "Width",
+      "id": "blockhighlight-width-config",
+      "value": 1.0
+    },
+    {
+      "name": "Fade",
+      "id": "blockhighlight-fade-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "blockhighlight-fade-time-config",
+      "value": 200
+    }
+  ]
+}

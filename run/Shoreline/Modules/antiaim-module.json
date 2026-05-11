@@ -1,0 +1,51 @@
+{
+  "name": "AntiAim",
+  "id": "antiaim-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "antiaim-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "antiaim-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "antiaim-notify-config",
+      "value": false
+    },
+    {
+      "name": "Yaw",
+      "id": "antiaim-yaw-config",
+      "value": "SPIN"
+    },
+    {
+      "name": "Pitch",
+      "id": "antiaim-pitch-config",
+      "value": "DOWN"
+    },
+    {
+      "name": "YawAdd",
+      "id": "antiaim-yawadd-config",
+      "value": 20.0
+    },
+    {
+      "name": "CustomPitch",
+      "id": "antiaim-custompitch-config",
+      "value": 20.0
+    },
+    {
+      "name": "SpinSpeed",
+      "id": "antiaim-spinspeed-config",
+      "value": 16.0
+    },
+    {
+      "name": "FlipTicks",
+      "id": "antiaim-flipticks-config",
+      "value": 2
+    }
+  ]
+}

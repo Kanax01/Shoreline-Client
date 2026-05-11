@@ -1,0 +1,41 @@
+{
+  "name": "Font",
+  "id": "font-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "font-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "font-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "font-notify-config",
+      "value": false
+    },
+    {
+      "name": "AntiAlias",
+      "id": "font-antialias-config",
+      "value": true
+    },
+    {
+      "name": "FractionalMetrics",
+      "id": "font-fractionalmetrics-config",
+      "value": false
+    },
+    {
+      "name": "Size",
+      "id": "font-size-config",
+      "value": 9
+    },
+    {
+      "name": "VanillaShadow",
+      "id": "font-vanillashadow-config",
+      "value": 1.0
+    }
+  ]
+}

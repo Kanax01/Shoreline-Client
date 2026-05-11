@@ -1,0 +1,26 @@
+{
+  "name": "Chat",
+  "id": "chat-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "chat-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "chat-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "chat-notify-config",
+      "value": false
+    },
+    {
+      "name": "DMOnly",
+      "id": "chat-dmonly-config",
+      "value": false
+    }
+  ]
+}

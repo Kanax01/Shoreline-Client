@@ -1,0 +1,51 @@
+{
+  "name": "AutoXP",
+  "id": "autoxp-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoxp-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoxp-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoxp-notify-config",
+      "value": false
+    },
+    {
+      "name": "MultiTask",
+      "id": "autoxp-multitask-config",
+      "value": false
+    },
+    {
+      "name": "Delay",
+      "id": "autoxp-delay-config",
+      "value": 1.0
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "autoxp-shiftticks-config",
+      "value": 1
+    },
+    {
+      "name": "DurabilityCheck",
+      "id": "autoxp-durabilitycheck-config",
+      "value": true
+    },
+    {
+      "name": "Rotate",
+      "id": "autoxp-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Swing",
+      "id": "autoxp-swing-config",
+      "value": false
+    }
+  ]
+}

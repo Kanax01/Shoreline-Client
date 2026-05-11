@@ -1,0 +1,21 @@
+{
+  "name": "SelfBow",
+  "id": "selfbow-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "selfbow-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "selfbow-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "selfbow-notify-config",
+      "value": false
+    }
+  ]
+}

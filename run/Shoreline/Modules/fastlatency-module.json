@@ -1,0 +1,21 @@
+{
+  "name": "FastLatency",
+  "id": "fastlatency-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fastlatency-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fastlatency-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fastlatency-notify-config",
+      "value": false
+    }
+  ]
+}

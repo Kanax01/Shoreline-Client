@@ -1,0 +1,126 @@
+{
+  "name": "PacketLogger",
+  "id": "packetlogger-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "packetlogger-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "packetlogger-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "packetlogger-notify-config",
+      "value": false
+    },
+    {
+      "name": "Log",
+      "id": "packetlogger-log-config",
+      "value": false
+    },
+    {
+      "name": "LogChat",
+      "id": "packetlogger-logchat-config",
+      "value": false
+    },
+    {
+      "name": "LogDisconnect",
+      "id": "packetlogger-logdisconnect-config",
+      "value": true
+    },
+    {
+      "name": "PlayerMoveFull",
+      "id": "packetlogger-playermovefull-config",
+      "value": false
+    },
+    {
+      "name": "PlayerMoveLook",
+      "id": "packetlogger-playermovelook-config",
+      "value": false
+    },
+    {
+      "name": "PlayerMovePosition",
+      "id": "packetlogger-playermoveposition-config",
+      "value": false
+    },
+    {
+      "name": "PlayerMoveGround",
+      "id": "packetlogger-playermoveground-config",
+      "value": false
+    },
+    {
+      "name": "VehicleMove",
+      "id": "packetlogger-vehiclemove-config",
+      "value": false
+    },
+    {
+      "name": "PlayerAction",
+      "id": "packetlogger-playeraction-config",
+      "value": false
+    },
+    {
+      "name": "UpdateSelectedSlot",
+      "id": "packetlogger-updateselectedslot-config",
+      "value": false
+    },
+    {
+      "name": "ClickSlot",
+      "id": "packetlogger-clickslot-config",
+      "value": false
+    },
+    {
+      "name": "PickInventory",
+      "id": "packetlogger-pickinventory-config",
+      "value": false
+    },
+    {
+      "name": "HandSwing",
+      "id": "packetlogger-handswing-config",
+      "value": false
+    },
+    {
+      "name": "InteractEntity",
+      "id": "packetlogger-interactentity-config",
+      "value": false
+    },
+    {
+      "name": "InteractBlock",
+      "id": "packetlogger-interactblock-config",
+      "value": false
+    },
+    {
+      "name": "InteractItem",
+      "id": "packetlogger-interactitem-config",
+      "value": false
+    },
+    {
+      "name": "ClientCommand",
+      "id": "packetlogger-clientcommand-config",
+      "value": false
+    },
+    {
+      "name": "ClientStatus",
+      "id": "packetlogger-clientstatus-config",
+      "value": false
+    },
+    {
+      "name": "CloseScreen",
+      "id": "packetlogger-closescreen-config",
+      "value": false
+    },
+    {
+      "name": "TeleportConfirm",
+      "id": "packetlogger-teleportconfirm-config",
+      "value": false
+    },
+    {
+      "name": "Pong",
+      "id": "packetlogger-pong-config",
+      "value": false
+    }
+  ]
+}

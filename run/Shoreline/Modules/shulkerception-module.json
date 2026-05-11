@@ -1,0 +1,21 @@
+{
+  "name": "Shulkerception",
+  "id": "shulkerception-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "shulkerception-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "shulkerception-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "shulkerception-notify-config",
+      "value": false
+    }
+  ]
+}

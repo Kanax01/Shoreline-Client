@@ -1,0 +1,26 @@
+{
+  "name": "NoFall",
+  "id": "nofall-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nofall-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nofall-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nofall-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "nofall-mode-config",
+      "value": "ANTI"
+    }
+  ]
+}

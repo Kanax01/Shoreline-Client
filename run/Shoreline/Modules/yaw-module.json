@@ -1,0 +1,26 @@
+{
+  "name": "Yaw",
+  "id": "yaw-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "yaw-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "yaw-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "yaw-notify-config",
+      "value": false
+    },
+    {
+      "name": "Lock",
+      "id": "yaw-lock-config",
+      "value": false
+    }
+  ]
+}

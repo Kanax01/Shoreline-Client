@@ -1,0 +1,46 @@
+{
+  "name": "Freecam",
+  "id": "freecam-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "freecam-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "freecam-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "freecam-notify-config",
+      "value": false
+    },
+    {
+      "name": "Speed",
+      "id": "freecam-speed-config",
+      "value": 4.0
+    },
+    {
+      "name": "ControlKey",
+      "id": "freecam-controlkey-config",
+      "value": 342
+    },
+    {
+      "name": "ToggleControl",
+      "id": "freecam-togglecontrol-config",
+      "value": false
+    },
+    {
+      "name": "Interact",
+      "id": "freecam-interact-config",
+      "value": "CAMERA"
+    },
+    {
+      "name": "Rotate",
+      "id": "freecam-rotate-config",
+      "value": false
+    }
+  ]
+}

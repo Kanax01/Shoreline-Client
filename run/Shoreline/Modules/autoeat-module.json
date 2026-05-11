@@ -1,0 +1,26 @@
+{
+  "name": "AutoEat",
+  "id": "autoeat-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autoeat-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autoeat-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autoeat-notify-config",
+      "value": false
+    },
+    {
+      "name": "Hunger",
+      "id": "autoeat-hunger-config",
+      "value": 19.0
+    }
+  ]
+}

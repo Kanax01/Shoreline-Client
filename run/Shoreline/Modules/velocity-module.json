@@ -1,0 +1,81 @@
+{
+  "name": "Velocity",
+  "id": "velocity-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "velocity-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "velocity-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "velocity-notify-config",
+      "value": false
+    },
+    {
+      "name": "Knockback",
+      "id": "velocity-knockback-config",
+      "value": true
+    },
+    {
+      "name": "Explosion",
+      "id": "velocity-explosion-config",
+      "value": true
+    },
+    {
+      "name": "Mode",
+      "id": "velocity-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Horizontal",
+      "id": "velocity-horizontal-config",
+      "value": 0.0
+    },
+    {
+      "name": "Vertical",
+      "id": "velocity-vertical-config",
+      "value": 0.0
+    },
+    {
+      "name": "Conceal",
+      "id": "velocity-conceal-config",
+      "value": false
+    },
+    {
+      "name": "GroundOnly",
+      "id": "velocity-groundonly-config",
+      "value": false
+    },
+    {
+      "name": "Trapped",
+      "id": "velocity-trapped-config",
+      "value": false
+    },
+    {
+      "name": "NoPush-Entities",
+      "id": "velocity-nopush-entities-config",
+      "value": true
+    },
+    {
+      "name": "NoPush-Blocks",
+      "id": "velocity-nopush-blocks-config",
+      "value": true
+    },
+    {
+      "name": "NoPush-Liquids",
+      "id": "velocity-nopush-liquids-config",
+      "value": true
+    },
+    {
+      "name": "NoPush-Fishhook",
+      "id": "velocity-nopush-fishhook-config",
+      "value": true
+    }
+  ]
+}

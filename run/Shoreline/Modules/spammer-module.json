@@ -1,0 +1,36 @@
+{
+  "name": "Spammer",
+  "id": "spammer-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "spammer-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "spammer-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "spammer-notify-config",
+      "value": false
+    },
+    {
+      "name": "Delay",
+      "id": "spammer-delay-config",
+      "value": 1.5
+    },
+    {
+      "name": "Random",
+      "id": "spammer-random-config",
+      "value": false
+    },
+    {
+      "name": "AntiKick",
+      "id": "spammer-antikick-config",
+      "value": false
+    }
+  ]
+}

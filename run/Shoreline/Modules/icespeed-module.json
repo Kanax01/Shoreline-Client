@@ -1,0 +1,21 @@
+{
+  "name": "IceSpeed",
+  "id": "icespeed-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "icespeed-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "icespeed-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "icespeed-notify-config",
+      "value": false
+    }
+  ]
+}

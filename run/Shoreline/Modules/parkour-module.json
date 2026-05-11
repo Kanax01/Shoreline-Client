@@ -1,0 +1,21 @@
+{
+  "name": "Parkour",
+  "id": "parkour-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "parkour-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "parkour-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "parkour-notify-config",
+      "value": false
+    }
+  ]
+}

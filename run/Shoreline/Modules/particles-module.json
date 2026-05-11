@@ -1,0 +1,92 @@
+{
+  "name": "Particles",
+  "id": "particles-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "particles-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "particles-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "particles-notify-config",
+      "value": false
+    },
+    {
+      "name": "Totem",
+      "id": "particles-totem-config",
+      "value": "OFF"
+    },
+    {
+      "name": "TotemColor",
+      "id": "particles-totemcolor-config",
+      "value": "ff197800",
+      "global": false
+    },
+    {
+      "name": "TotemParticles",
+      "id": "particles-totemparticles-config",
+      "value": 16
+    },
+    {
+      "name": "TotemParticleTicks",
+      "id": "particles-totemparticleticks-config",
+      "value": 30
+    },
+    {
+      "name": "Explosions",
+      "id": "particles-explosions-config",
+      "value": true
+    },
+    {
+      "name": "Firework",
+      "id": "particles-firework-config",
+      "value": false
+    },
+    {
+      "name": "Effects",
+      "id": "particles-effects-config",
+      "value": true
+    },
+    {
+      "name": "Items",
+      "id": "particles-items-config",
+      "value": false
+    },
+    {
+      "name": "BottleSplash",
+      "id": "particles-bottlesplash-config",
+      "value": true
+    },
+    {
+      "name": "Portal",
+      "id": "particles-portal-config",
+      "value": true
+    },
+    {
+      "name": "Block",
+      "id": "particles-block-config",
+      "value": false
+    },
+    {
+      "name": "BlockBreak",
+      "id": "particles-blockbreak-config",
+      "value": false
+    },
+    {
+      "name": "Campfires",
+      "id": "particles-campfires-config",
+      "value": false
+    },
+    {
+      "name": "CryingObsidian",
+      "id": "particles-cryingobsidian-config",
+      "value": false
+    }
+  ]
+}

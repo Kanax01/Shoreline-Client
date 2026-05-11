@@ -1,0 +1,111 @@
+{
+  "name": "SelfTrap",
+  "id": "selftrap-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "selftrap-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "selftrap-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "selftrap-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "selftrap-multitask-config",
+      "value": false
+    },
+    {
+      "name": "StrictDirection",
+      "id": "selftrap-strictdirection-config",
+      "value": false
+    },
+    {
+      "name": "Rotate",
+      "id": "selftrap-rotate-config",
+      "value": false
+    },
+    {
+      "name": "Timing",
+      "id": "selftrap-timing-config",
+      "value": "VANILLA"
+    },
+    {
+      "name": "PrePlace-Explosions",
+      "id": "selftrap-preplace-explosions-config",
+      "value": false
+    },
+    {
+      "name": "PrePlaceTick",
+      "id": "selftrap-preplacetick-config",
+      "value": false
+    },
+    {
+      "name": "PlaceRange",
+      "id": "selftrap-placerange-config",
+      "value": 4.0
+    },
+    {
+      "name": "Attack",
+      "id": "selftrap-attack-config",
+      "value": true
+    },
+    {
+      "name": "Extend",
+      "id": "selftrap-extend-config",
+      "value": true
+    },
+    {
+      "name": "MineExtend",
+      "id": "selftrap-mineextend-config",
+      "value": false
+    },
+    {
+      "name": "HeadExtend",
+      "id": "selftrap-headextend-config",
+      "value": false
+    },
+    {
+      "name": "Support",
+      "id": "selftrap-support-config",
+      "value": false
+    },
+    {
+      "name": "CoverHead",
+      "id": "selftrap-coverhead-config",
+      "value": false
+    },
+    {
+      "name": "ShiftTicks",
+      "id": "selftrap-shiftticks-config",
+      "value": 2
+    },
+    {
+      "name": "ShiftDelay",
+      "id": "selftrap-shiftdelay-config",
+      "value": 1.0
+    },
+    {
+      "name": "AutoDisable",
+      "id": "selftrap-autodisable-config",
+      "value": true
+    },
+    {
+      "name": "Render",
+      "id": "selftrap-render-config",
+      "value": false
+    },
+    {
+      "name": "Fade-Time",
+      "id": "selftrap-fade-time-config",
+      "value": 250
+    }
+  ]
+}

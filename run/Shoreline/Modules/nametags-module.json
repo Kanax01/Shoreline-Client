@@ -1,0 +1,116 @@
+{
+  "name": "Nametags",
+  "id": "nametags-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "nametags-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "nametags-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "nametags-notify-config",
+      "value": false
+    },
+    {
+      "name": "Armor",
+      "id": "nametags-armor-config",
+      "value": true
+    },
+    {
+      "name": "Items",
+      "id": "nametags-items-config",
+      "value": true
+    },
+    {
+      "name": "Enchantments",
+      "id": "nametags-enchantments-config",
+      "value": true
+    },
+    {
+      "name": "Durability",
+      "id": "nametags-durability-config",
+      "value": true
+    },
+    {
+      "name": "ItemName",
+      "id": "nametags-itemname-config",
+      "value": false
+    },
+    {
+      "name": "EntityId",
+      "id": "nametags-entityid-config",
+      "value": false
+    },
+    {
+      "name": "Gamemode",
+      "id": "nametags-gamemode-config",
+      "value": false
+    },
+    {
+      "name": "OnlineUsers",
+      "id": "nametags-onlineusers-config",
+      "value": true
+    },
+    {
+      "name": "Ping",
+      "id": "nametags-ping-config",
+      "value": true
+    },
+    {
+      "name": "Health",
+      "id": "nametags-health-config",
+      "value": true
+    },
+    {
+      "name": "Totems",
+      "id": "nametags-totems-config",
+      "value": false
+    },
+    {
+      "name": "Scaling",
+      "id": "nametags-scaling-config",
+      "value": 0.003
+    },
+    {
+      "name": "Invisibles",
+      "id": "nametags-invisibles-config",
+      "value": true
+    },
+    {
+      "name": "Background",
+      "id": "nametags-background-config",
+      "value": true
+    },
+    {
+      "name": "Border",
+      "id": "nametags-border-config",
+      "value": false
+    },
+    {
+      "name": "MobOwner",
+      "id": "nametags-mobowner-config",
+      "value": false
+    },
+    {
+      "name": "Pearls",
+      "id": "nametags-pearls-config",
+      "value": false
+    },
+    {
+      "name": "DroppedItems",
+      "id": "nametags-droppeditems-config",
+      "value": false
+    },
+    {
+      "name": "Sounds",
+      "id": "nametags-sounds-config",
+      "value": false
+    }
+  ]
+}

@@ -1,0 +1,36 @@
+{
+  "name": "TickShift",
+  "id": "tickshift-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "tickshift-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "tickshift-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "tickshift-notify-config",
+      "value": false
+    },
+    {
+      "name": "MaxTicks",
+      "id": "tickshift-maxticks-config",
+      "value": 20
+    },
+    {
+      "name": "Packets",
+      "id": "tickshift-packets-config",
+      "value": 1
+    },
+    {
+      "name": "ChargeSpeed",
+      "id": "tickshift-chargespeed-config",
+      "value": 1
+    }
+  ]
+}

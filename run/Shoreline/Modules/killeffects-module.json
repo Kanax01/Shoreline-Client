@@ -1,0 +1,31 @@
+{
+  "name": "KillEffects",
+  "id": "killeffects-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "killeffects-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "killeffects-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "killeffects-notify-config",
+      "value": false
+    },
+    {
+      "name": "Effect",
+      "id": "killeffects-effect-config",
+      "value": "LIGHTNING"
+    },
+    {
+      "name": "Strikes",
+      "id": "killeffects-strikes-config",
+      "value": 1
+    }
+  ]
+}

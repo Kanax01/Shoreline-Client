@@ -1,0 +1,31 @@
+{
+  "name": "EntityControl",
+  "id": "entitycontrol-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "entitycontrol-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "entitycontrol-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "entitycontrol-notify-config",
+      "value": false
+    },
+    {
+      "name": "JumpStrength",
+      "id": "entitycontrol-jumpstrength-config",
+      "value": 0.7
+    },
+    {
+      "name": "NoPigAI",
+      "id": "entitycontrol-nopigai-config",
+      "value": false
+    }
+  ]
+}

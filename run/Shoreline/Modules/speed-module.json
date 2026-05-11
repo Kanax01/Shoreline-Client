@@ -1,0 +1,61 @@
+{
+  "name": "Speed",
+  "id": "speed-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "speed-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "speed-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "speed-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "speed-mode-config",
+      "value": "STRAFE"
+    },
+    {
+      "name": "CollisionDistance",
+      "id": "speed-collisiondistance-config",
+      "value": 1.5
+    },
+    {
+      "name": "Speed",
+      "id": "speed-speed-config",
+      "value": 4.0
+    },
+    {
+      "name": "UseTimer",
+      "id": "speed-usetimer-config",
+      "value": false
+    },
+    {
+      "name": "Fast",
+      "id": "speed-fast-config",
+      "value": false
+    },
+    {
+      "name": "StrafeBoost",
+      "id": "speed-strafeboost-config",
+      "value": false
+    },
+    {
+      "name": "BoostTicks",
+      "id": "speed-boostticks-config",
+      "value": 20
+    },
+    {
+      "name": "SpeedInWater",
+      "id": "speed-speedinwater-config",
+      "value": false
+    }
+  ]
+}

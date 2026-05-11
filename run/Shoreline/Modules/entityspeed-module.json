@@ -1,0 +1,36 @@
+{
+  "name": "EntitySpeed",
+  "id": "entityspeed-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "entityspeed-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "entityspeed-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "entityspeed-notify-config",
+      "value": false
+    },
+    {
+      "name": "Speed",
+      "id": "entityspeed-speed-config",
+      "value": 0.5
+    },
+    {
+      "name": "AntiStuck",
+      "id": "entityspeed-antistuck-config",
+      "value": false
+    },
+    {
+      "name": "Strict",
+      "id": "entityspeed-strict-config",
+      "value": false
+    }
+  ]
+}

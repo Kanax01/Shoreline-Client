@@ -1,0 +1,21 @@
+{
+  "name": "AutoTool",
+  "id": "autotool-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "autotool-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "autotool-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "autotool-notify-config",
+      "value": false
+    }
+  ]
+}

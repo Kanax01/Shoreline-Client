@@ -1,0 +1,46 @@
+{
+  "name": "Step",
+  "id": "step-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "step-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "step-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "step-notify-config",
+      "value": false
+    },
+    {
+      "name": "Mode",
+      "id": "step-mode-config",
+      "value": "NORMAL"
+    },
+    {
+      "name": "Height",
+      "id": "step-height-config",
+      "value": 2.5
+    },
+    {
+      "name": "UseTimer",
+      "id": "step-usetimer-config",
+      "value": true
+    },
+    {
+      "name": "Strict",
+      "id": "step-strict-config",
+      "value": false
+    },
+    {
+      "name": "EntityStep",
+      "id": "step-entitystep-config",
+      "value": false
+    }
+  ]
+}

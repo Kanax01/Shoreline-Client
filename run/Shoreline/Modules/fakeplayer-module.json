@@ -1,0 +1,21 @@
+{
+  "name": "FakePlayer",
+  "id": "fakeplayer-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fakeplayer-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fakeplayer-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fakeplayer-notify-config",
+      "value": false
+    }
+  ]
+}

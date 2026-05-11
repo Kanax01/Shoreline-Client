@@ -1,0 +1,31 @@
+{
+  "name": "Tooltips",
+  "id": "tooltips-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "tooltips-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "tooltips-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "tooltips-notify-config",
+      "value": false
+    },
+    {
+      "name": "Shulkers",
+      "id": "tooltips-shulkers-config",
+      "value": true
+    },
+    {
+      "name": "Maps",
+      "id": "tooltips-maps-config",
+      "value": false
+    }
+  ]
+}

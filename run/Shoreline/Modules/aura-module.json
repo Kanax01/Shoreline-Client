@@ -1,0 +1,186 @@
+{
+  "name": "Aura",
+  "id": "aura-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "aura-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "aura-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "aura-notify-config",
+      "value": false
+    },
+    {
+      "name": "Multitask",
+      "id": "aura-multitask-config",
+      "value": false
+    },
+    {
+      "name": "Swing",
+      "id": "aura-swing-config",
+      "value": true
+    },
+    {
+      "name": "Mode",
+      "id": "aura-mode-config",
+      "value": "SWITCH"
+    },
+    {
+      "name": "Priority",
+      "id": "aura-priority-config",
+      "value": "HEALTH"
+    },
+    {
+      "name": "EnemyRange",
+      "id": "aura-enemyrange-config",
+      "value": 5.0
+    },
+    {
+      "name": "Range",
+      "id": "aura-range-config",
+      "value": 4.5
+    },
+    {
+      "name": "WallRange",
+      "id": "aura-wallrange-config",
+      "value": 4.5
+    },
+    {
+      "name": "VanillaRange",
+      "id": "aura-vanillarange-config",
+      "value": false
+    },
+    {
+      "name": "FOV",
+      "id": "aura-fov-config",
+      "value": 180.0
+    },
+    {
+      "name": "AttackDelay",
+      "id": "aura-attackdelay-config",
+      "value": true
+    },
+    {
+      "name": "AttackSpeed",
+      "id": "aura-attackspeed-config",
+      "value": 20.0
+    },
+    {
+      "name": "RandomSpeed",
+      "id": "aura-randomspeed-config",
+      "value": 0.0
+    },
+    {
+      "name": "SwapPenalty",
+      "id": "aura-swappenalty-config",
+      "value": 0.0
+    },
+    {
+      "name": "TPS-Sync",
+      "id": "aura-tps-sync-config",
+      "value": "NONE"
+    },
+    {
+      "name": "AutoSwap",
+      "id": "aura-autoswap-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Sword-Check",
+      "id": "aura-sword-check-config",
+      "value": true
+    },
+    {
+      "name": "HitVector",
+      "id": "aura-hitvector-config",
+      "value": "FEET"
+    },
+    {
+      "name": "Rotate",
+      "id": "aura-rotate-config",
+      "value": false
+    },
+    {
+      "name": "RotateSilent",
+      "id": "aura-rotatesilent-config",
+      "value": false
+    },
+    {
+      "name": "YawStep",
+      "id": "aura-yawstep-config",
+      "value": false
+    },
+    {
+      "name": "YawStep-Limit",
+      "id": "aura-yawstep-limit-config",
+      "value": 180
+    },
+    {
+      "name": "TicksExisted",
+      "id": "aura-ticksexisted-config",
+      "value": 0
+    },
+    {
+      "name": "ArmorCheck",
+      "id": "aura-armorcheck-config",
+      "value": false
+    },
+    {
+      "name": "StopSprint",
+      "id": "aura-stopsprint-config",
+      "value": false
+    },
+    {
+      "name": "StopShield",
+      "id": "aura-stopshield-config",
+      "value": false
+    },
+    {
+      "name": "MaceBreach",
+      "id": "aura-macebreach-config",
+      "value": false
+    },
+    {
+      "name": "Players",
+      "id": "aura-players-config",
+      "value": true
+    },
+    {
+      "name": "Monsters",
+      "id": "aura-monsters-config",
+      "value": false
+    },
+    {
+      "name": "Neutrals",
+      "id": "aura-neutrals-config",
+      "value": false
+    },
+    {
+      "name": "Animals",
+      "id": "aura-animals-config",
+      "value": false
+    },
+    {
+      "name": "Invisibles",
+      "id": "aura-invisibles-config",
+      "value": true
+    },
+    {
+      "name": "Render",
+      "id": "aura-render-config",
+      "value": true
+    },
+    {
+      "name": "DisableOnDeath",
+      "id": "aura-disableondeath-config",
+      "value": false
+    }
+  ]
+}

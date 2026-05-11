@@ -1,0 +1,56 @@
+{
+  "name": "BetterChat",
+  "id": "betterchat-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "betterchat-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "betterchat-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "betterchat-notify-config",
+      "value": false
+    },
+    {
+      "name": "ChatFont",
+      "id": "betterchat-chatfont-config",
+      "value": false
+    },
+    {
+      "name": "Timestamp",
+      "id": "betterchat-timestamp-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Animation",
+      "id": "betterchat-animation-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Anim-Time",
+      "id": "betterchat-anim-time-config",
+      "value": 200
+    },
+    {
+      "name": "NoSignatureIndicator",
+      "id": "betterchat-nosignatureindicator-config",
+      "value": false
+    },
+    {
+      "name": "Infinite",
+      "id": "betterchat-infinite-config",
+      "value": false
+    },
+    {
+      "name": "KeepChat",
+      "id": "betterchat-keepchat-config",
+      "value": false
+    }
+  ]
+}

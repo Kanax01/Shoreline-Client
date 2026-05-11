@@ -1,0 +1,26 @@
+{
+  "name": "UnfocusedFPS",
+  "id": "unfocusedfps-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "unfocusedfps-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "unfocusedfps-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "unfocusedfps-notify-config",
+      "value": false
+    },
+    {
+      "name": "Limit",
+      "id": "unfocusedfps-limit-config",
+      "value": 30
+    }
+  ]
+}

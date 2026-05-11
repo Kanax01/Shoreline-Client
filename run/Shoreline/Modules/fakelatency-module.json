@@ -1,0 +1,31 @@
+{
+  "name": "FakeLatency",
+  "id": "fakelatency-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "fakelatency-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "fakelatency-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "fakelatency-notify-config",
+      "value": false
+    },
+    {
+      "name": "Latency",
+      "id": "fakelatency-latency-config",
+      "value": 100.0
+    },
+    {
+      "name": "Transactions",
+      "id": "fakelatency-transactions-config",
+      "value": false
+    }
+  ]
+}

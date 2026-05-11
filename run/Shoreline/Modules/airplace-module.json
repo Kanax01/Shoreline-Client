@@ -1,0 +1,41 @@
+{
+  "name": "AirPlace",
+  "id": "airplace-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "airplace-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "airplace-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "airplace-notify-config",
+      "value": false
+    },
+    {
+      "name": "Click",
+      "id": "airplace-click-config",
+      "value": true
+    },
+    {
+      "name": "Grim",
+      "id": "airplace-grim-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "airplace-range-config",
+      "value": 4.0
+    },
+    {
+      "name": "Fluids",
+      "id": "airplace-fluids-config",
+      "value": false
+    }
+  ]
+}

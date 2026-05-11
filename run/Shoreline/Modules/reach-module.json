@@ -1,0 +1,36 @@
+{
+  "name": "Reach",
+  "id": "reach-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "reach-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "reach-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "reach-notify-config",
+      "value": false
+    },
+    {
+      "name": "BlockReach",
+      "id": "reach-blockreach-config",
+      "value": 4.5
+    },
+    {
+      "name": "EntityReach",
+      "id": "reach-entityreach-config",
+      "value": 3.0
+    },
+    {
+      "name": "NoHitbox",
+      "id": "reach-nohitbox-config",
+      "value": false
+    }
+  ]
+}

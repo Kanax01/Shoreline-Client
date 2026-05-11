@@ -1,0 +1,36 @@
+{
+  "name": "MiddleClick",
+  "id": "middleclick-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "middleclick-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "middleclick-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "middleclick-notify-config",
+      "value": false
+    },
+    {
+      "name": "Friend",
+      "id": "middleclick-friend-config",
+      "value": true
+    },
+    {
+      "name": "Pearl",
+      "id": "middleclick-pearl-config",
+      "value": true
+    },
+    {
+      "name": "Firework",
+      "id": "middleclick-firework-config",
+      "value": false
+    }
+  ]
+}

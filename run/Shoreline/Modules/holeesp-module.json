@@ -1,0 +1,100 @@
+{
+  "name": "HoleESP",
+  "id": "holeesp-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "holeesp-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "holeesp-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "holeesp-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "holeesp-range-config",
+      "value": 5.0
+    },
+    {
+      "name": "Outline",
+      "id": "holeesp-outline-config",
+      "value": true
+    },
+    {
+      "name": "Cross",
+      "id": "holeesp-cross-config",
+      "value": false
+    },
+    {
+      "name": "Size",
+      "id": "holeesp-size-config",
+      "value": 1.0
+    },
+    {
+      "name": "IgnoreSelf",
+      "id": "holeesp-ignoreself-config",
+      "value": false
+    },
+    {
+      "name": "Obsidian",
+      "id": "holeesp-obsidian-config",
+      "value": true
+    },
+    {
+      "name": "Obsidian-Bedrock",
+      "id": "holeesp-obsidian-bedrock-config",
+      "value": true
+    },
+    {
+      "name": "Double",
+      "id": "holeesp-double-config",
+      "value": false
+    },
+    {
+      "name": "Quad",
+      "id": "holeesp-quad-config",
+      "value": false
+    },
+    {
+      "name": "Void",
+      "id": "holeesp-void-config",
+      "value": false
+    },
+    {
+      "name": "ObsidianColor",
+      "id": "holeesp-obsidiancolor-config",
+      "value": "503264cd",
+      "global": true
+    },
+    {
+      "name": "Obsidian-BedrockColor",
+      "id": "holeesp-obsidian-bedrockcolor-config",
+      "value": "503264cd",
+      "global": true
+    },
+    {
+      "name": "BedrockColor",
+      "id": "holeesp-bedrockcolor-config",
+      "value": "503264cd",
+      "global": true
+    },
+    {
+      "name": "VoidColor",
+      "id": "holeesp-voidcolor-config",
+      "value": "8c3264cd",
+      "global": true
+    },
+    {
+      "name": "Fade-Time",
+      "id": "holeesp-fade-time-config",
+      "value": 300
+    }
+  ]
+}

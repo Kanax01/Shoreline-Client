@@ -1,0 +1,26 @@
+{
+  "name": "Server",
+  "id": "server-module",
+  "configs": [
+    {
+      "name": "NoDemo",
+      "id": "server-nodemo-config",
+      "value": true
+    },
+    {
+      "name": "NoResourcePack",
+      "id": "server-noresourcepack-config",
+      "value": false
+    },
+    {
+      "name": "NoServerCrash",
+      "id": "server-noservercrash-config",
+      "value": false
+    },
+    {
+      "name": "IllegalDisconnect",
+      "id": "server-illegaldisconnect-config",
+      "value": false
+    }
+  ]
+}

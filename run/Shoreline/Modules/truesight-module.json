@@ -1,0 +1,26 @@
+{
+  "name": "TrueSight",
+  "id": "truesight-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "truesight-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "truesight-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "truesight-notify-config",
+      "value": false
+    },
+    {
+      "name": "OnlyPlayers",
+      "id": "truesight-onlyplayers-config",
+      "value": true
+    }
+  ]
+}

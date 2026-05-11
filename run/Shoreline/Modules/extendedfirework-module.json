@@ -1,0 +1,21 @@
+{
+  "name": "ExtendedFirework",
+  "id": "extendedfirework-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "extendedfirework-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "extendedfirework-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "extendedfirework-notify-config",
+      "value": false
+    }
+  ]
+}

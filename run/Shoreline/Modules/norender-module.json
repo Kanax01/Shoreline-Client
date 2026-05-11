@@ -1,0 +1,156 @@
+{
+  "name": "NoRender",
+  "id": "norender-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "norender-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "norender-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "norender-notify-config",
+      "value": false
+    },
+    {
+      "name": "NoHurtCam",
+      "id": "norender-nohurtcam-config",
+      "value": true
+    },
+    {
+      "name": "Armor",
+      "id": "norender-armor-config",
+      "value": false
+    },
+    {
+      "name": "Overlay-Fire",
+      "id": "norender-overlay-fire-config",
+      "value": true
+    },
+    {
+      "name": "Overlay-Portal",
+      "id": "norender-overlay-portal-config",
+      "value": true
+    },
+    {
+      "name": "Overlay-Water",
+      "id": "norender-overlay-water-config",
+      "value": true
+    },
+    {
+      "name": "Overlay-Block",
+      "id": "norender-overlay-block-config",
+      "value": true
+    },
+    {
+      "name": "Overlay-Spyglass",
+      "id": "norender-overlay-spyglass-config",
+      "value": false
+    },
+    {
+      "name": "Overlay-Pumpkin",
+      "id": "norender-overlay-pumpkin-config",
+      "value": true
+    },
+    {
+      "name": "Overlay-BossBar",
+      "id": "norender-overlay-bossbar-config",
+      "value": true
+    },
+    {
+      "name": "Nausea",
+      "id": "norender-nausea-config",
+      "value": false
+    },
+    {
+      "name": "Blindness",
+      "id": "norender-blindness-config",
+      "value": false
+    },
+    {
+      "name": "Frostbite",
+      "id": "norender-frostbite-config",
+      "value": false
+    },
+    {
+      "name": "Skylight",
+      "id": "norender-skylight-config",
+      "value": true
+    },
+    {
+      "name": "WitherSkulls",
+      "id": "norender-witherskulls-config",
+      "value": false
+    },
+    {
+      "name": "ItemFrames",
+      "id": "norender-itemframes-config",
+      "value": false
+    },
+    {
+      "name": "Entities",
+      "id": "norender-entities-config",
+      "value": false
+    },
+    {
+      "name": "EntityList",
+      "id": "norender-entitylist-config",
+      "value": []
+    },
+    {
+      "name": "TileEntities",
+      "id": "norender-tileentities-config",
+      "value": false
+    },
+    {
+      "name": "SignText",
+      "id": "norender-signtext-config",
+      "value": false
+    },
+    {
+      "name": "FireEntities",
+      "id": "norender-fireentities-config",
+      "value": false
+    },
+    {
+      "name": "Fireworks",
+      "id": "norender-fireworks-config",
+      "value": true
+    },
+    {
+      "name": "Totems",
+      "id": "norender-totems-config",
+      "value": false
+    },
+    {
+      "name": "WorldBorder",
+      "id": "norender-worldborder-config",
+      "value": false
+    },
+    {
+      "name": "Fog",
+      "id": "norender-fog-config",
+      "value": "OFF"
+    },
+    {
+      "name": "Items",
+      "id": "norender-items-config",
+      "value": "OFF"
+    },
+    {
+      "name": "GuiToast",
+      "id": "norender-guitoast-config",
+      "value": true
+    },
+    {
+      "name": "TerrainScreen",
+      "id": "norender-terrainscreen-config",
+      "value": false
+    }
+  ]
+}

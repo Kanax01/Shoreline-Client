@@ -1,0 +1,36 @@
+{
+  "name": "CrystalModel",
+  "id": "crystalmodel-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "crystalmodel-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "crystalmodel-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "crystalmodel-notify-config",
+      "value": false
+    },
+    {
+      "name": "Spin",
+      "id": "crystalmodel-spin-config",
+      "value": 1.0
+    },
+    {
+      "name": "Bounce",
+      "id": "crystalmodel-bounce-config",
+      "value": true
+    },
+    {
+      "name": "Scale",
+      "id": "crystalmodel-scale-config",
+      "value": 1.0
+    }
+  ]
+}

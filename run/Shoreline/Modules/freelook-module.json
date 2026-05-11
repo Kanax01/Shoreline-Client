@@ -1,0 +1,21 @@
+{
+  "name": "FreeLook",
+  "id": "freelook-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "freelook-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "freelook-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "freelook-notify-config",
+      "value": false
+    }
+  ]
+}

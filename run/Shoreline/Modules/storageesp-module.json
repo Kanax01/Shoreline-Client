@@ -1,0 +1,91 @@
+{
+  "name": "StorageESP",
+  "id": "storageesp-module",
+  "configs": [
+    {
+      "name": "Enabled",
+      "id": "storageesp-enabled-config",
+      "value": false
+    },
+    {
+      "name": "Hidden",
+      "id": "storageesp-hidden-config",
+      "value": false
+    },
+    {
+      "name": "Notify",
+      "id": "storageesp-notify-config",
+      "value": false
+    },
+    {
+      "name": "Range",
+      "id": "storageesp-range-config",
+      "value": 50.0
+    },
+    {
+      "name": "Fill",
+      "id": "storageesp-fill-config",
+      "value": false
+    },
+    {
+      "name": "Width",
+      "id": "storageesp-width-config",
+      "value": 1.5
+    },
+    {
+      "name": "Chests",
+      "id": "storageesp-chests-config",
+      "value": true
+    },
+    {
+      "name": "ChestsColor",
+      "id": "storageesp-chestscolor-config",
+      "value": "ffc8c865",
+      "global": false
+    },
+    {
+      "name": "EnderChests",
+      "id": "storageesp-enderchests-config",
+      "value": true
+    },
+    {
+      "name": "EnderChestsColor",
+      "id": "storageesp-enderchestscolor-config",
+      "value": "ff9b00c8",
+      "global": false
+    },
+    {
+      "name": "Shulkers",
+      "id": "storageesp-shulkers-config",
+      "value": true
+    },
+    {
+      "name": "ShulkersColor",
+      "id": "storageesp-shulkerscolor-config",
+      "value": "ffc8006a",
+      "global": false
+    },
+    {
+      "name": "Hoppers",
+      "id": "storageesp-hoppers-config",
+      "value": false
+    },
+    {
+      "name": "HoppersColor",
+      "id": "storageesp-hopperscolor-config",
+      "value": "ff646464",
+      "global": false
+    },
+    {
+      "name": "Furnaces",
+      "id": "storageesp-furnaces-config",
+      "value": false
+    },
+    {
+      "name": "FurnacesColor",
+      "id": "storageesp-furnacescolor-config",
+      "value": "ff646464",
+      "global": false
+    }
+  ]
+}
