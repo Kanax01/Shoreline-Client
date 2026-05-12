@@ -9,3 +9,7 @@
 ```shell
 ./gradlew build
 ```
+
+
+## Availble versions:
+- 1.0 Beta (1.21.1) - This is the og source
